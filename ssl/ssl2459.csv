@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.241.188.2","play-plug-backend.infiswift.tech","","","","","play-plug-backend.infiswift.tech|play-plug-dashboard.infiswift.tech|plug-backend.infiswift.tech|plug-dashboard.infiswift.tech|preview-plug-backend.infiswift.tech|preview-plug-dashboard.infiswift.tech","","false"
 "54.241.187.248","*.supabase.co","","","","","*.supabase.co|*.supabase.in","","false"
 "54.241.187.245","www.studiopetitbo.com","","","","","www.studiopetitbo.com","","false"
