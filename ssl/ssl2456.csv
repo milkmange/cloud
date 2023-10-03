@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.250.63.39","TRAEFIK DEFAULT CERT","","","","","f42a041723f4855222ccdfef79832a0d.3225d08ac1821afa98d73adac24c6e6a.traefik.default","","true"
 "3.250.63.58","custom-apps.vamoos.com","","","","","custom-apps.vamoos.com","","false"
 "3.250.63.82","*.supabase.co","","","","","*.supabase.co|*.supabase.in","","false"
