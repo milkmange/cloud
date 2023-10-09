@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.111.240.1","tricecommunity.com","","","","","tricecommunity.com|trice.link|*.trice.link|tricesystems.com|*.tricecommunity.com|*.tricesystems.com","","false"
 "3.111.240.6","knu.ac.in","","","","","knu.ac.in|www.knu.ac.in","","false"
 "3.111.240.8","peerlearning.iiitvadodara.ac.in","","","","","peerlearning.iiitvadodara.ac.in","","false"
