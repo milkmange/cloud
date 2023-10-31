@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "65.8.197.83","*.qafafdg.com","","","","","*.qafafdg.com|qafafdg.com","","false"
 "65.8.198.106","*.moja.africa","","","","","*.moja.africa|*.moja.market","","false"
 "65.8.197.23","riesling.reactor-dev.e.chainalysis.com","","","","","riesling.reactor-dev.e.chainalysis.com","","false"

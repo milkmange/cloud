@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.35.178.125","r0.awsstatic.com","","","","","r0.awsstatic.com","","false"
 "13.35.178.107","johnnys-web.com","","","","","johnnys-web.com|*.johnnys-web.com","","false"
 "13.35.177.21","*.rooftop.com.br","","","","","*.rooftop.com.br","","false"

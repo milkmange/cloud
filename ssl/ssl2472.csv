@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.35.126.174","spothero.com","SpotHero Inc.","US","Chicago","Illinois","spothero.com|www.spothero.com|api.spothero.com","","false"
 "13.35.126.115","staticapp.icpsc.com","","","","","staticapp.icpsc.com|www.staticapp.icpsc.com","","false"
 "13.35.126.175","*.me2zengame.com","","","","","*.me2zengame.com","","false"
