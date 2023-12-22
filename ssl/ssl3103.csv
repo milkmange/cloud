@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "50.19.187.118","*.brsoar-prove.soar.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.brsoar-prove.soar.splunkcloud.com|brsoar-prove.soar.splunkcloud.com","","false"
 "50.19.187.125","*.playerslounge.co","","","","","*.playerslounge.co|playerslounge.co","","false"
 "50.19.187.129","*.mhda9eaij0850.us-east-1.cs.amazonlightsail.com","","","","","*.mhda9eaij0850.us-east-1.cs.amazonlightsail.com","","false"

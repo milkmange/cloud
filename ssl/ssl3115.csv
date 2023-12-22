@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.195.99.220","34.78.121.22","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.78.121.22|10.59.80.1|23.251.138.144|34.34.170.112|35.195.99.220|10.59.76.2","false"
 "35.195.99.241","35.195.99.241","","","","","35.195.99.241","","false"
 "35.195.100.23","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

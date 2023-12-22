@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.239.12.244","*.fdvtk9ep7f3jq.us-east-1.cs.amazonlightsail.com","","","","","*.fdvtk9ep7f3jq.us-east-1.cs.amazonlightsail.com","","false"
 "34.239.12.245","kube-apiserver","","","","","6492dd7877d9155424cda662d0b8a4bd.yl4.us-east-1.eks.amazonaws.com|ip-172-16-105-123.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.111.18.236|172.16.105.123","false"
 "34.239.12.252","*.merchandising.cloud","","","","","*.merchandising.cloud","","false"
