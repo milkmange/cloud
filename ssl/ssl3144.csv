@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.203.125.178","35.203.125.178","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.203.125.178|10.78.0.1|34.95.26.233|34.95.59.217|35.203.70.72|192.168.189.194","false"
 "35.203.125.186","NGINXIngressController","","","","","","","false"
 "35.203.125.190","35.203.125.190","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.203.125.190|10.8.0.1|35.234.253.25|34.95.44.238|34.152.10.36|10.1.0.12","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.207.83.231","kube-apiserver","","","","","dab2cf2b0af72df5e39c298a47327327.gr7.sa-east-1.eks.amazonaws.com|ip-172-16-104-80.sa-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.80.84|172.16.104.80","false"
 "54.207.83.248","*.1doc.com.br","","","","","*.1doc.com.br|1doc.com.br","","false"
 "54.207.83.252","api.onebook888.com","","","","","api.onebook888.com","","false"
