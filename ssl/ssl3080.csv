@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.207.165.137","kube-apiserver","","","","","69df3a250ff6b7a64168fccf105b2236.sk1.sa-east-1.eks.amazonaws.com|ip-172-16-46-224.sa-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.229.216|172.16.46.224","false"
 "54.207.165.140","*.nubank.com.br","NU PAGAMENTOS S.A. - INSTITUICAO DE PAGAMENTO","BR","SAO PAULO","SAO PAULO","*.nubank.com.br|nubank.com.br","","false"
 "54.207.165.141","kube-apiserver","","","","","df4c674a950e88e48dacd16a2b8881c1.yl4.sa-east-1.eks.amazonaws.com|ip-172-16-182-192.sa-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.1.22|172.16.182.192","false"

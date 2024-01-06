@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.28.43.26","j.internal.iot.eu-central-1.amazonaws.com","","","","","j.internal.iot.eu-central-1.amazonaws.com|iotlaserserviceonebox.eu-central-1.prod.iot.eu-central-1.amazonaws.com|iotlaserserviceinternal.eu-central-1.prod.iot.eu-central-1.amazonaws.com","","false"
 "52.28.43.53","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "52.28.43.65","kube-apiserver","","","","","e482002a89e4a80b112f8af15cb2a969.sk1.eu-central-1.eks.amazonaws.com|ip-172-16-43-105.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.6.130|172.16.43.105","false"

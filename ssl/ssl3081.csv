@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.207.252.71","kube-apiserver","","","","","df6c2ad79946f98e3ec5536d1779b98a.yl4.sa-east-1.eks.amazonaws.com|ip-172-16-111-135.sa-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.8.59.31|172.16.111.135","false"
 "54.207.252.80","*.k8sh.aav.conexia.com.br","","","","","*.k8sh.aav.conexia.com.br|*.k8sq.aav.conexia.com.br|*.k8sd.aav.conexia.com.br","","false"
 "54.207.252.85","*.moneyp.com.br","","","","","*.moneyp.com.br","","false"

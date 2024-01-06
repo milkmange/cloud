@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.254.99.69","kube-apiserver","","","","","4397df9f14d958f7297627391e55e69f.sk1.us-gov-east-1.eks.amazonaws.com|ip-172-16-125-181.us-gov-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.32.135.241|172.16.125.181","false"
 "18.254.99.68","sagemaker.gamma.us-gov-east-1.ml-platform.aws.a2z.com","","","","","*.api.sagemaker.gamma.us-gov-east-1.vpce.amazonaws.com|api.sagemaker.gamma.us-gov-east-1.ml-platform.aws.a2z.com|sagemaker.gamma.us-gov-east-1.ml-platform.aws.a2z.com","","false"
 "18.254.99.78","*.gamma.execute-api.us-gov-east-1.amazonaws.com","","","","","*.gamma.execute-api.us-gov-east-1.amazonaws.com","","false"

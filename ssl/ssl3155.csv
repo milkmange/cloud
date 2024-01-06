@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.226.191.36","backend.getmarket.cl","","","","","backend.getmarket.cl","","false"
 "35.226.191.35","34.28.51.24","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.28.51.24|10.37.144.1|35.223.186.85|35.226.191.35|35.193.206.63|192.168.164.82","false"
 "35.226.191.56","elf925wholesale.com","","","","","elf925wholesale.com|www.elf925wholesale.com","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.237.169.254","*.oasgames.com","","","","","*.oasgames.com|oasgames.com","","false"
 "34.237.170.6","*.av.covisint.net","","","","","*.av.covisint.net|*.docker-np.av.covisint.net|*.stg.av.covisint.net|*.dev.av.covisint.net|*.docker.av.covisint.net|*.np.av.covisint.net|*.qa.av.covisint.net","","false"
 "34.237.170.13","kube-apiserver","","","","","12c4e21f16bc4396ff5438f095553f90.sk1.us-east-1.eks.amazonaws.com|ip-172-16-60-66.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.226.34.76|172.16.60.66","false"

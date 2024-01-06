@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.244.84.117","*.9b25nnsjrvq04.us-west-2.cs.amazonlightsail.com","","","","","*.9b25nnsjrvq04.us-west-2.cs.amazonlightsail.com","","false"
 "54.244.84.124","lexyomjobs.com","","","","","lexyomjobs.com|www.lexyomjobs.com","","false"
 "54.244.84.134","nk.gotslots.zynga.com","","","","","nk.gotslots.zynga.com|nk.staging.gotslots.zynga.com|nk.production.gotslots.zynga.com|nk.development.gotslots.zynga.com","","false"
