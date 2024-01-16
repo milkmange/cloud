@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.236.61.92","*.tmxcyber.com","LexisNexis Risk Solutions FL Inc.","US","Alpharetta","Georgia","*.tmxcyber.com|tmxcyber.com","","false"
 "34.236.61.93","ca.wm4d.com","","","","","ca.wm4d.com","","false"
 "34.236.61.104","uat.speakeasyadmin.com","","","","","uat.speakeasyadmin.com|app.speakeasyadmin.com","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.237.99.153","*.lab.zoominsoftware.app","","","","","*.lab.zoominsoftware.app","","false"
 "34.237.99.157","*.wilkes.edu","","","","","*.wilkes.edu|wilkes.edu","","false"
 "34.237.99.156","prod.marketplace.airrobe.link","","","","","prod.marketplace.airrobe.link|*.prod.marketplace.airrobe.link","","false"
