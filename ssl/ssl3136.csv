@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.198.158.164","inditex.cleveronsolutions.com","","","","","inditex.cleveronsolutions.com|api-inditex.cleveronsolutions.com|integration-inditex.cleveronsolutions.com|office-inditex.cleveronsolutions.com","","false"
 "35.198.158.133","int.riskcalc.clever-soft.com","cleversoft GmbH","DE","Munich","Bavaria","int.riskcalc.clever-soft.com|*.int.riskcalc.clever-soft.com","","false"
 "35.198.158.129","35.198.167.57","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.198.167.57|10.127.240.1|35.198.158.129|10.156.0.9","false"

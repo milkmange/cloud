@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.239.225.219","*.rainn.org","Rape, Abuse and Incest National Network (RAINN)","US","Washington","District of Columbia","*.rainn.org|rainn.org|dc01.office.rainn.org|dc02.office.rainn.org|www.preventionnavigator.rainn.org|ivr.ncvc.rainn.org|twilio-client-tokens.hotlineservices.rainn.org|texting.hotlineservices.rainn.org|dc1.office.rainn.org|dc2.office.rainn.org|git.office.rainn.org","","false"
 "34.239.225.229","*.ccb.cloudwifi.com","Arista Networks, Inc.","US","Santa Clara","California","*.ccb.cloudwifi.com|ccb.cloudwifi.com","","false"
 "34.239.225.230","*.limelightnow.com","","","","","*.limelightnow.com|limelightnow.com","","false"

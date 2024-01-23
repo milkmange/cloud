@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.236.206.180","kube-apiserver","","","","","3b2dc729116ca3bf4651c68b37f2a44b.gr7.us-east-1.eks.amazonaws.com|ip-172-16-169-200.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.29.92.190|172.16.169.200","false"
 "34.236.206.184","*.prod.stipple.customerappsprod.dowjones.io","","","","","*.prod.stipple.customerappsprod.dowjones.io","","false"
 "34.236.206.191","*.cns-inc.com","","","","","*.cns-inc.com|cns-inc.com","","false"

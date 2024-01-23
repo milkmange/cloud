@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.237.151.34","fgfs.us-east1-b.c.yung-jesus.internal","","","","","fgfs.us-east1-b.c.yung-jesus.internal","","true"
 "35.237.151.36","www2.tradersoftware.com.br","","","","","www2.tradersoftware.com.br","","false"
 "35.237.151.42","cobotiq.com","","","","","cobotiq.com|www.cobotiq.com","","false"
