@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "99.79.18.47","wcs.uwo.ca","The University of Western Ontario","CA","","Ontario","wcs.uwo.ca|www.wcs.uwo.ca","","false"
 "99.79.17.205","qa.playalberta.ca","","","","","qa.playalberta.ca|www.qa.playalberta.ca","","false"
 "99.79.17.199","kube-apiserver","","","","","c02c3f7aac5bd1c7e8698b050f868a8f.yl4.ca-central-1.eks.amazonaws.com|ip-172-16-43-2.ca-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.5.14|172.16.43.2","false"

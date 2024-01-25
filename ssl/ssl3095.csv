@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.238.63.112","chip.mitre.org","The Mitre Corporation","US","McLean","Virginia","chip.mitre.org|*.chip.mitre.org|projectglyph.org|*.projectglyph.org|alliancepep.net|*.alliancepep.net|alliancepep.org|*.alliancepep.org|alliancepep.com|*.alliancepep.com","","false"
 "34.238.63.118","*.parkmobile.io","","","","","*.parkmobile.io","","false"
 "34.238.63.119","bridgecare.com.br","","","","","bridgecare.com.br|*.bridgecare.com.br","","false"
