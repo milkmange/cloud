@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.241.54.95","stg.education-journey.com","","","","","stg.education-journey.com","","false"
 "35.241.54.219","www.cdn.madskullz.io","","","","","www.cdn.madskullz.io|cdn.madskullz.io","","false"
 "35.241.54.86","argocd.termo.com","","","","","argocd.termo.com","","false"
