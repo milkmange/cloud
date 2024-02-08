@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.244.138.195","sl.ri.cert.sabre.com","Sabre GLBL Inc.","US","Southlake","Texas","sl.ri.cert.sabre.com|upgrade.sl.ri.cert.sabre.com|webupgrade.sl.ri.cert.sabre.com|pmp.sl.ri.cert.sabre.com|webpmp.sl.ri.cert.sabre.com|test.sl.ri.cert.sabre.com|webtest.sl.ri.cert.sabre.com|qa.sl.ri.cert.sabre.com|webqa.sl.ri.cert.sabre.com","","false"
 "35.244.137.211","15ff8cb6-3113-48a2-901e-148f8f08080b.looker.app","","","","","15ff8cb6-3113-48a2-901e-148f8f08080b.looker.app","","false"
 "35.244.140.68","gcp-otp-dev-k8.pntrzz.com","","","","","gcp-otp-dev-k8.pntrzz.com","","false"

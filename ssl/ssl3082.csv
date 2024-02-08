@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.144.35.137","titleix.mnsportsandevents.org","","","","","titleix.mnsportsandevents.org","","false"
 "54.144.35.127","kube-apiserver","","","","","4764eb254fa22a400a39a4a7ff7ad58a.gr7.us-east-1.eks.amazonaws.com|ip-172-16-50-81.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.101.10.98|172.16.50.81","false"
 "54.144.35.121","*.connectwisedev.com","","","","","*.connectwisedev.com","","false"

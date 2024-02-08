@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.190.119.29","*.cluster-gdquhgxeinbagx3aot63tkncl2.cloudworkstations.dev","","","","","*.cluster-gdquhgxeinbagx3aot63tkncl2.cloudworkstations.dev","","false"
 "35.190.117.246","app-etslive-2.int.vidio.com","","","","","app-etslive-2.int.vidio.com","","false"
 "35.190.117.157","urban.production-au.gh.m2x.app","","","","","urban.production-au.gh.m2x.app","","false"
