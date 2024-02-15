@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.167.205.119","optica.xyz","","","","","optica.xyz|*.optica.xyz|*.dev.optica.xyz|*.internal.optica.xyz|*.prod.optica.xyz","","false"
 "35.167.205.137","kube-apiserver","","","","","733c6cacf03f0f9c9aa3b00e27e3ae2b.gr7.us-west-2.eks.amazonaws.com|ip-172-16-124-160.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.142|172.16.124.160","false"
 "35.167.205.141","*.fjkt3d9sjqtfa.us-west-2.cs.amazonlightsail.com","","","","","*.fjkt3d9sjqtfa.us-west-2.cs.amazonlightsail.com","","false"

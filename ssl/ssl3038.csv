@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.9.24.180","portal.edgemarksolutions.com","","","","","portal.edgemarksolutions.com","","false"
 "52.9.24.187","kube-apiserver","","","","","38d8481017b4ac2df6fc9209e47af085.gr7.us-west-1.eks.amazonaws.com|ip-172-16-33-74.us-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","fd3f:beb3:83b9::1|2600:1f1c:1fd:dd01::690|172.16.33.74","false"
 "52.9.24.197","*.eon-xr.com","","","","","*.eon-xr.com|eon-xr.com","","false"
