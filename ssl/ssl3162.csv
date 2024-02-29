@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.211.59.11","media.grid.bidswitch.net","","","","","media.grid.bidswitch.net|www.media.grid.bidswitch.net","","false"
 "35.211.59.24","*.bidswitch.net","","","","","*.bidswitch.net|bidswitch.net","","false"
 "35.211.59.32","*.rmq2.cloudamqp.com","","","","","*.in.rmq2.cloudamqp.com|*.rmq2.cloudamqp.com","","false"

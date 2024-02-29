@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.91.127.163","34.91.127.163","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.91.127.163|10.47.0.1|34.90.92.161|34.91.238.215|34.91.28.130|10.45.244.2","false"
 "34.91.127.157","*.simpli.fi","Simplifi Holdings Inc.","US","Fort Worth","Texas","*.simpli.fi|simpli.fi|*.int.simpli.fi|*.dev.simpli.fi|*.prd.simpli.fi|int.simpli.fi|dev.simpli.fi|prd.simpli.fi|*.astronomer.dev.simpli.fi|astronomer.dev.simpli.fi|astronomer.prd.simpli.fi|*.astronomer.prd.simpli.fi|*.bas.simpli.fi|bas.simpli.fi","","false"
 "34.91.127.182","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.241.133.100","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "35.241.133.140","35.187.42.249","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.187.42.249|10.64.0.1|23.251.135.99|35.240.36.235|35.241.133.140|172.16.8.2","false"
 "35.241.133.205","TRAEFIK DEFAULT CERT","","","","","fe5e56629812894a3e85633e813c5791.226d92d05a8dd44910ad6004ea243bf4.traefik.default","","true"
