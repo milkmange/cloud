@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.229.159.204","kube-apiserver","","","","","5055bbb55dbd914a2dc2e9fc3928b541.gr7.us-east-1.eks.amazonaws.com|ip-172-16-125-122.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.10.210.107|172.16.125.122","false"
 "3.229.159.206","dev.bf01.code42.com","","","","","dev.bf01.code42.com|*.dev.bf01.code42.com","","false"
 "3.229.159.212","*.contlo.com","","","","","*.contlo.com|contlo.com","","false"

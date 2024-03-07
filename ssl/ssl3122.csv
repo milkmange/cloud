@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.90.7.32","35.227.157.105","Google","US","Sunnyvale","CA","","","true"
 "34.90.7.152","34.90.7.152","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.90.7.152|10.91.224.1|35.204.121.238|34.90.23.42|34.91.244.55|192.168.241.34","false"
 "34.90.6.220","staging.job.proinvoice.co","","","","","staging.job.proinvoice.co","","false"
