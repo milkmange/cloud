@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.146.106.234","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com","","false"
 "54.146.106.244","finmedica-dev.teravisiontech.cloud","","","","","finmedica-dev.teravisiontech.cloud","","false"
 "54.146.106.248","amp.pharm.mssm.edu","Mount Sinai Health System, Inc","US","New York","New York","amp.pharm.mssm.edu","","false"

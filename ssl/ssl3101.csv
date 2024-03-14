@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.230.99.202","*.directvgo.com","","","","","*.directvgo.com|directvgo.com","","false"
 "3.230.99.203","*.paymentez.com","","","","","*.paymentez.com|paymentez.com","","false"
 "3.230.99.207","sssprbbmobile.delawarenorth.com","","","","","sssprbbmobile.delawarenorth.com","","false"

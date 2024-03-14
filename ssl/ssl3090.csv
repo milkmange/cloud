@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.147.51.238","*.welldyne.com","","","","","*.welldyne.com|*.welldynerx.com","","false"
 "54.147.51.244","*.davinci-ed.com","DaVinci Education, Inc.","US","Durham","North Carolina","*.davinci-ed.com|davinci-ed.com","","false"
 "54.147.51.252","copeme.org","","","","","copeme.org|repositorio.copeme.org|www.copeme.org|www.repositorio.copeme.org","","false"

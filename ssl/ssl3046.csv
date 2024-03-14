@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.89.122.9","*.egamiplatform.tv","","","","","*.egamiplatform.tv|egamiplatform.tv","","false"
 "35.89.122.46","example.com","","","","","","","true"
 "35.89.122.58","*.route53-recovery-cluster.us-west-2.amazonaws.com","","","","","*.us-west-2.cluster.meridian.amazonaws.com|*.route53-recovery-cluster.us-west-2.amazonaws.com","","false"
