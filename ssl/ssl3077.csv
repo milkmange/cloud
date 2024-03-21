@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.166.129.162","kube-apiserver","","","","","286a51592bf5d6e8a7d1d0a18f078a95.gr7.us-west-2.eks.amazonaws.com|ip-172-16-178-252.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.10.125.107|172.16.178.252","false"
 "35.166.129.168","virtualrack-test.nextcloud.aero","","","","","virtualrack-test.nextcloud.aero|*.virtualrack-test.nextcloud.aero","","false"
 "35.166.129.161","Datrium Inc.","Datrium Inc.","US","","CA","","","true"

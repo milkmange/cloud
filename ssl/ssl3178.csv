@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.244.214.115","*.magazineluiza.com.br","","","","","*.magazineluiza.com.br|magazineluiza.com.br","","false"
 "35.244.210.119","*.signicat.app","","","","","*.signicat.app","","false"
 "35.244.214.116","saft-api.retailsvc.dev","","","","","saft-api.retailsvc.dev","","false"
