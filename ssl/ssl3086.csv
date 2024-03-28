@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.145.167.93","papi-ecs-pdmp-virginia.1plusx.io","","","","","papi-ecs-pdmp-virginia.1plusx.io","","false"
 "54.145.167.98","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "54.145.167.101","*.info-bets.com","","","","","*.info-bets.com","","true"

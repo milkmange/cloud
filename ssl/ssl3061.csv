@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.190.42.99","*.magazineluiza.com.br","","","","","*.magazineluiza.com.br|magazineluiza.com.br","","false"
 "35.190.42.166","CloudFlare Origin Certificate","CloudFlare, Inc.","","","","*.cortex.e-conomic.io|*.e-conomic.io|*.spinnaker.e-conomic.io|cortex.e-conomic.io|cortexapi.e-conomic.io|spinnaker.e-conomic.io","","false"
 "35.190.44.129","pgbadger.karnott.fr","","","","","pgbadger.karnott.fr","","false"

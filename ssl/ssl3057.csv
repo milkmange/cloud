@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.232.104.59","35.225.191.195","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.225.191.195|34.118.224.1|34.172.173.199|35.232.104.59|34.31.189.92|10.33.0.2","false"
 "35.232.104.62","34.171.208.234","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.171.208.234|10.76.0.1|34.134.65.217|35.232.104.62|104.154.55.85|10.128.0.79","false"
 "35.232.104.74","*.flowsmart.ai","","","","","*.api.flowsmart.ai|*.flowsmart.ai","","false"

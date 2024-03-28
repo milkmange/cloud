@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.228.73.31","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-02.us-east-1.es.amazonaws.com","","false"
 "3.228.73.37","*.bison.services","","","","","*.bison.services|*.staging.bison.services|*.bison.solutions|*.haulerx.com|*.greencouch.services|*.dev.bison.services|*.staging.greencouch.services","","false"
 "3.228.73.43","beta.us-east-1.dataplane.user-notifications.aws.dev","","","","","beta.us-east-1.dataplane.user-notifications.aws.dev","","false"

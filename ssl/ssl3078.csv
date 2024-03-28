@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.166.215.124","kube-apiserver","","","","","82769f69de12ad3c731086e1c220fbb1.gr7.us-west-2.eks.amazonaws.com|ip-10-0-59-92.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.139.44|10.0.59.92","false"
 "35.166.215.137","usa292.sfdc-lywfpd.salesforce.com","salesforce.com, inc.","US","San Francisco","California","usa292.sfdc-lywfpd.salesforce.com|*.sandbox.my.salesforce.com|*.my.salesforce.com","","false"
 "35.166.215.143","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-01.us-west-2.es.amazonaws.com","","false"

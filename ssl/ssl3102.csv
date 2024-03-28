@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.230.188.117","*.09ptctkhdvt2k.us-east-1.cs.amazonlightsail.com","","","","","*.09ptctkhdvt2k.us-east-1.cs.amazonlightsail.com","","false"
 "3.230.188.118","www.guruamar.com","","","","","www.guruamar.com|guruamar.com","","false"
 "3.230.188.126","*.298106287756.us-east-1.prod.rms.ring.devices.a2z.com","","","","","us-east-1.prod.rms.ring.devices.a2z.com|*.298106287756.us-east-1.prod.rms.ring.devices.a2z.com","","false"
