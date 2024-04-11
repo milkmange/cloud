@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.107.192.111","oyvinds.snl-test0.no","","","","","oyvinds.snl-test0.no|brukere.oyvinds.snl-test0.no|lhl.oyvinds.snl-test0.no|lille.oyvinds.snl-test0.no|media.oyvinds.snl-test0.no|meta.oyvinds.snl-test0.no|nkl.oyvinds.snl-test0.no|sml.oyvinds.snl-test0.no","","false"
 "34.107.192.187","images.freemalaysiatoday.net","","","","","images.freemalaysiatoday.net","","false"
 "34.107.192.177","cdn-test.tequity.ventures","","","","","cdn-test.tequity.ventures","","false"

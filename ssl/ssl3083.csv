@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.144.132.90","deployment-chef-server-ready-api-yp0jlttfccs589mu","","","","","deployment-chef-server-ready-api-yp0jlttfccs589mu.us-east-1.opsworks-cm.io","","false"
 "54.144.132.93","*.unhsystem.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.unhsystem.splunkcloud.com|unhsystem.splunkcloud.com|http-inputs-unhsystem.splunkcloud.com|*.http-inputs-unhsystem.splunkcloud.com|akamai-inputs-unhsystem.splunkcloud.com|*.akamai-inputs-unhsystem.splunkcloud.com|http-inputs-ack-unhsystem.splunkcloud.com|*.http-inputs-ack-unhsystem.splunkcloud.com|http-inputs-firehose-unhsystem.splunkcloud.com|*.http-inputs-firehose-unhsystem.splunkcloud.com|*.pvt.unhsystem.splunkcloud.com|pvt.unhsystem.splunkcloud.com","","false"
 "54.144.132.132","*.researchspace.com","","","","","*.researchspace.com|researchspace.com","","false"
