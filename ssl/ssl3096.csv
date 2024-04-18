@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.229.18.116","*.downlynk.net","","","","","*.downlynk.net","","false"
 "3.229.18.119","*.execute-api.us-east-1.amazonaws.com","","","","","*.execute-api.us-east-1.amazonaws.com","","false"
 "3.229.18.122","*.prod.thinkalpha.io","","","","","*.prod.thinkalpha.io|prod.thinkalpha.io","","false"

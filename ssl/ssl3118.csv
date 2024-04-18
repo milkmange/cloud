@@ -16,6 +16,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.190.86.75","CloudFlare Origin Certificate","CloudFlare, Inc.","","","","*.avenuesec.io|avenuesec.io","","false"
 "35.190.86.83","qa.fiscas.d-p.io","","","","","api.qa.fiscas.d-p.io|grafana.qa.fiscas.d-p.io|qa.fiscas.d-p.io|web.qa.fiscas.d-p.io","","false"
 "35.190.83.86","*.magazineluiza.com.br","","","","","*.magazineluiza.com.br|magazineluiza.com.br","","false"

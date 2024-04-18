@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.53.66.164","kube-apiserver","","","","","776c41321e85b52b4b6f8066949b63ba.yl4.eu-north-1.eks.amazonaws.com|ip-10-0-46-84.eu-north-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.108.12|10.0.46.84","false"
 "13.53.66.189","*.one.centevo.io","","","","","*.one.centevo.io","","false"
 "13.53.66.177","transcribe-gamma.eu-north-1.amazonaws.com","","","","","transcribe-gamma.eu-north-1.amazonaws.com|*.transcribe-gamma.eu-north-1.vpce.amazonaws.com","","false"

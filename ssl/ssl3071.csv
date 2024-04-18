@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.164.142.250","staging.interpol.twitch.a2z.com","","","","","staging.interpol.twitch.a2z.com|dev.interpol.twitch.a2z.com","","false"
 "35.164.142.253","fewdem.gck.tc","","","","","fewdem.gck.tc|*.fewdem.gck.tc","","false"
 "35.164.143.18","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com","","false"
