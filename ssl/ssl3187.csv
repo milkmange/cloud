@@ -18,6 +18,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.241.29.17","*.us-west1.datafusion.cdap.app","Google LLC","US","Mountain View","California","*.us-west1.datafusion.cdap.app","","false"
 "35.241.29.10","nuance-exp.p4006578-dev-5340-calantic-exp.on-gcloud.bayer.com","","","","","nuance-exp.p4006578-dev-5340-calantic-exp.on-gcloud.bayer.com","","false"
 "35.241.29.14","newcapitalnet.bankcapital.co.id","PT. Bank Capital Indonesia, Tbk","ID","Jakarta Selatan","Daerah Khusus Ibukota Jakarta","newcapitalnet.bankcapital.co.id|www.newcapitalnet.bankcapital.co.id","","false"

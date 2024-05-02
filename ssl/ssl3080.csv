@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.167.131.132","ec-nordic-otahotelcontent-v1.rit.choiceedge.net","","","","","ec-nordic-otahotelcontent-v1.rit.choiceedge.net","","false"
 "35.167.131.134","*.epic.dev.globelifeinc.com","","","","","*.epic.dev.globelifeinc.com|epic.dev.globelifeinc.com","","false"
 "35.167.131.147","developer.api.quantcast.com","","","","","developer.api.quantcast.com","","false"

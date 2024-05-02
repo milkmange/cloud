@@ -18,6 +18,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.192.127.92","35.192.127.92","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.192.127.92|10.52.0.1|35.188.173.188|34.71.192.73|34.30.91.244|10.128.0.2","false"
 "35.192.127.97","*.manzama.com","Diligent Corporation","US","New York","New York","*.manzama.com|manzama.com","","false"
 "35.192.127.20","*.apge.io","","","","","*.apge.io|apge.io","","false"

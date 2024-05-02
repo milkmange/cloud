@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.146.195.219","*.ec.suny.edu","Ellucian Company L.P.","US","Reston","Virginia","*.ec.suny.edu|ec.suny.edu","","false"
 "54.146.195.220","*.credentials.iot.us-east-1.amazonaws.com","","","","","*.credentials.iot.us-east-1.amazonaws.com","","false"
 "54.146.195.214","*.thedali.org","","","","","*.thedali.org|thedali.org","","false"

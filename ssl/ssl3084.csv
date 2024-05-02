@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.144.221.232","kube-apiserver","","","","","00da8a6a3d7872455f379bf5b5ef6682.sk1.us-east-1.eks.amazonaws.com|ip-10-0-41-25.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.139.254|10.0.41.25","false"
 "54.144.221.235","*.keji.people.aws.dev","","","","","*.keji.people.aws.dev","","false"
 "54.144.221.240","*.p2pstaking.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.p2pstaking.splunkcloud.com|p2pstaking.splunkcloud.com|http-inputs-p2pstaking.splunkcloud.com|*.http-inputs-p2pstaking.splunkcloud.com|akamai-inputs-p2pstaking.splunkcloud.com|*.akamai-inputs-p2pstaking.splunkcloud.com|http-inputs-ack-p2pstaking.splunkcloud.com|*.http-inputs-ack-p2pstaking.splunkcloud.com|http-inputs-firehose-p2pstaking.splunkcloud.com|*.http-inputs-firehose-p2pstaking.splunkcloud.com|*.pvt.p2pstaking.splunkcloud.com|pvt.p2pstaking.splunkcloud.com","","false"
