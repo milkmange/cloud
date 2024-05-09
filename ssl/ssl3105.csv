@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.231.171.74","lim.zensource.site","","","","","lim.zensource.site|*.stage.lim.zensource.site|stage.lim.zensource.site|*.dev.lim.zensource.site|dev.lim.zensource.site|prod.lim.zensource.site|*.prod.lim.zensource.site","","false"
 "3.231.171.76","kube-apiserver","","","","","d3aca9d4a744df1fb04f9453b30489f7.gr7.us-east-1.eks.amazonaws.com|ip-172-16-98-65.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.139.194.173|172.16.98.65","false"
 "3.231.171.78","kube-apiserver","","","","","93f3f8a7a4b2280f6dd7fc25d36591bf.gr7.us-east-1.eks.amazonaws.com|ip-172-16-33-185.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.155.79|172.16.33.185","false"
