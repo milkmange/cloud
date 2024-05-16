@@ -19,6 +19,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "99.79.184.79","*.svsb4vr2reg18.ca-central-1.cs.amazonlightsail.com","","","","","*.svsb4vr2reg18.ca-central-1.cs.amazonlightsail.com","","false"
 "99.79.184.85","vpdsp.ca","","","","","vpdsp.ca|*.vpdsp.ca","","false"
 "99.79.184.88","doggiedoorclub.com","","","","","doggiedoorclub.ca|doggiedoorclub.com|www.doggiedoorclub.ca|www.doggiedoorclub.com","","false"
