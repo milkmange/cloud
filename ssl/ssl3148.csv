@@ -21,6 +21,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.212.57.227","ttn-lora.alis.solutions","","","","","ttn-lora.alis.solutions","","false"
 "35.212.57.214","c29101.sgvps.net","","","","","c29101.sgvps.net","","false"
 "35.212.57.229","c18544.sgvps.net","","","","","c18544.sgvps.net","","false"

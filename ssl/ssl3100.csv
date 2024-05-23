@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.230.35.88","dmv2.alpha-terminator-us-east-1-adam.pre-gamma.awsmagnolio.com","","","","","dmv2.alpha-terminator-us-east-1-adam.pre-gamma.awsmagnolio.com|dmservicev2.alpha-terminator-us-east-1-adam.pre-gamma.awsmagnolio.com|dm.alpha-terminator-us-east-1-adam.pre-gamma.awsmagnolio.com","","false"
 "3.230.35.94","*.vidvox.net","","","","","*.vidvox.net","","false"
 "3.230.35.95","*.tokaytest.com","","","","","*.tokaytest.com|tokaytest.com","","false"

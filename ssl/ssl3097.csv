@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.254.12.26","*.preprod.pathlockgrc.com","","","","","*.preprod.pathlockgrc.com","","false"
 "3.254.12.33","kube-apiserver","","","","","c01d1c9b5cef60aca820ed5aa31268c2.gr7.eu-west-1.eks.amazonaws.com|ip-10-0-125-97.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|172.27.68.121|10.0.125.97","false"
 "3.254.12.55","kube-apiserver","","","","","6728e4cfb2c76d79e9c601a382ebd761.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-46-221.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.64.134.74|172.16.46.221","false"

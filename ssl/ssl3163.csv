@@ -21,6 +21,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.229.55.89","35.229.55.89","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.229.55.89|10.110.64.1|35.196.228.213|10.110.48.2","false"
 "35.229.55.231","34.73.80.1","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.73.80.1|10.4.176.1|35.229.55.231|35.243.173.206|34.73.149.7","false"
 "35.229.55.164","*.teamworkinsight.com","Retail Cloud Technologies, LLC","US","Clearwater","Florida","*.teamworkinsight.com|teamworkinsight.com","","false"
