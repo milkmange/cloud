@@ -23,6 +23,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.226.121.196","35.238.120.146","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.238.120.146|10.52.0.1|35.226.121.196|10.74.109.205","false"
 "35.226.121.200","*.pitchbookdata.com","","","","","*.pitchbookdata.com|pitchbookdata.com","","false"
 "35.226.121.198","34.121.119.160","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.121.119.160|10.108.0.1|35.226.121.198|10.128.0.27","false"

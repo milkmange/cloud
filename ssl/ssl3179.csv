@@ -23,6 +23,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.244.239.48","*.acd.mykronos.com","UKG Inc.","US","Weston","Florida","*.acd.mykronos.com|acd.mykronos.com","","false"
 "35.244.239.30","*.jrgtw.com","","","","","*.jrgtw.com|jrgtw.com","","false"
 "35.244.237.145","backstage.dev.mvnapp.net","","","","","backstage.dev.mvnapp.net","","false"
