@@ -24,6 +24,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.245.111.169","34.85.144.34","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.85.144.34|34.118.224.1|35.230.181.231|35.245.111.169|35.245.16.217|10.150.0.2","false"
 "35.245.111.175","35.221.9.3","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.221.9.3|34.118.224.1|35.245.111.175|34.48.16.59|34.85.194.117|10.150.0.2","false"
 "35.245.111.189","*.convirza.com","","","","","*.convirza.com|convirza.com","","false"
