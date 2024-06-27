@@ -26,6 +26,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.234.133.72","35.234.133.72","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.234.133.72|10.34.0.1|35.189.114.197|34.89.111.43|35.230.147.31|172.16.0.66","false"
 "35.234.133.111","onlinescratch.co.uk","","","","","onlinescratch.co.uk|www.onlinescratch.co.uk","","false"
 "35.234.133.137","TRAEFIK DEFAULT CERT","","","","","62da351fdcccea9f8b66c40c32449284.96d1b20ed901cad2a798053c4803bc70.traefik.default","","true"
