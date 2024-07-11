@@ -28,6 +28,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.194.230.189","*.brac.net","BRAC","BD","","Dhaka","*.brac.net|brac.net","","false"
 "35.194.230.207","34.80.182.33","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.80.182.33|10.63.0.1|35.194.230.207|35.194.250.134|34.81.31.193|10.140.0.2","false"
 "35.194.230.215","104.199.202.25","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","104.199.202.25|10.24.0.1|35.194.230.215|104.155.200.250|35.187.158.181|10.140.0.2","false"
