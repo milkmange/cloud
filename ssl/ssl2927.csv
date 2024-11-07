@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.23.124.92","34.138.10.123","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.138.10.123|34.118.224.1|10.142.0.2|34.23.124.92","false"
 "34.23.124.99","matvoip.sc.3cx.us","","","","","matvoip.sc.3cx.us","","false"
 "34.23.124.127","34.23.155.150","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.23.155.150|10.28.0.1|34.23.124.127|34.23.157.207|34.148.77.9|10.142.0.2","false"
