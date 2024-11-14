@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.199.143.248","rsci-alb.send-invoice.moneyforward.com","","","","","rsci-alb.send-invoice.moneyforward.com","","false"
 "52.199.143.249","gatewayv16.ocpptest.tktk.co.jp","","","","","gatewayv16.ocpptest.tktk.co.jp","","false"
 "52.199.143.254","gateway.paymentstation.jp","三井住友カード株式会社","JP","江東区","東京都","gateway.paymentstation.jp","","false"

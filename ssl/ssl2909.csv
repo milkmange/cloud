@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.196.152.115","kube-apiserver","","","","","cd1d1fe96ba97e03b491782825f2bd2d.gr7.ap-northeast-1.eks.amazonaws.com|ip-10-0-169-244.ap-northeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.180.6|10.0.169.244","false"
 "52.196.152.119","dev-pangaea-delivery.com","","","","","dev-pangaea-delivery.com|*.hooks.dev-pangaea-delivery.com|*.dev-pangaea-delivery.com","","false"
 "52.196.152.123","main.m-step.love","","","","","main.m-step.love","","false"

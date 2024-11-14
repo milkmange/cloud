@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.34.96.115","34.32.175.17","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.32.175.17|10.16.0.1|10.164.0.22|34.34.96.115|34.141.184.16|34.34.99.57","false"
 "34.34.96.100","TRAEFIK DEFAULT CERT","","","","","ce52fcdc042fd2e8e2cd6d846faf4127.48ce32ef868625da39a4b592a41b62f5.traefik.default","","true"
 "34.34.96.134","34.141.230.4","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.141.230.4|10.16.0.1|10.164.0.45|34.90.93.45|35.204.132.198|34.34.96.134","false"
