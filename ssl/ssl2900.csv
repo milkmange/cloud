@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.65.107.150","mens.lanvin-collection.com","","","","","mens.lanvin-collection.com|*.mens.lanvin-collection.com","","false"
 "54.65.107.152","*.nexon.com","NEXON Korea Corporation","KR","Seongnam-si","Gyeonggi-do","*.nexon.com|nexon.com","","false"
 "54.65.107.153","api.vocabularism.com","","","","","api.vocabularism.com","","false"
