@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.218.155.113","*.customer.cloud.microstrategy.com","MicroStrategy Inc.","US","Tysons","Virginia","*.customer.cloud.microstrategy.com","","false"
 "43.218.155.122","*.privacy-central2.securiti.ai","","","","","*.privacy-central2.securiti.ai|privacy-central2.securiti.ai","","false"
 "43.218.155.125","*.ap-southeast-3.es.amazonaws.com","","","","","*.ap-southeast-3.es.amazonaws.com","","false"

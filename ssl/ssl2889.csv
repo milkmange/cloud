@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.24.19.247","kube-apiserver","","","","","d28045d2121b98a5d531c1a7e633b035.gr7.ap-southeast-2.eks.amazonaws.com|ip-172-16-123-15.ap-southeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.66.14.196|172.16.123.15","false"
 "3.24.19.249","kube-apiserver","","","","","1503d1b231049af2ecc86004ca408bf0.yl4.ap-southeast-2.eks.amazonaws.com|ip-10-0-178-112.ap-southeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.16.2.35|10.0.178.112","false"
 "3.24.19.250","prism-staging.launtel.net.au","","","","","prism-staging.launtel.net.au|prism.launtel.net.au","","false"

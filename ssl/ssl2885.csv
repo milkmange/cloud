@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.61.57.123","kube-apiserver","","","","","f9711d446e62d62babaae07941fe9506.gr7.eu-north-1.eks.amazonaws.com|ip-10-0-160-89.eu-north-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.20.1|10.0.160.89","false"
 "13.61.57.125","adss-eng-develop.spandigital.net","","","","","adss-eng-develop.spandigital.net|spandigital.adss-eng-develop.spandigital.net|*.spandigital.adss-eng-develop.spandigital.net|*.adss-eng-develop.spandigital.net","","false"
 "13.61.57.132","*.omnidrive.com","","","","","*.omnidrive.com","","false"

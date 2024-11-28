@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.21.24.39","35.221.3.47","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.221.3.47|10.16.128.1|10.16.64.2|35.245.13.64|34.21.24.39|35.245.166.214","false"
 "34.21.24.63","*.gp.panclouddev.com","","","","","*.gp.panclouddev.com|gp.panclouddev.com","","false"
 "34.21.24.85","35.245.163.53","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.245.163.53|34.118.224.1|10.150.0.2|34.21.24.85","false"
