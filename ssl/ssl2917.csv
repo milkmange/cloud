@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.198.190.168","*.ap-northeast-1.es.amazonaws.com","","","","","*.ap-northeast-1.es.amazonaws.com","","false"
 "52.198.190.179","*.metamoji.com","","","","","*.metamoji.com","","false"
 "52.198.190.186","filelock.trendsecure.com","","","","","filelock.trendsecure.com","","false"

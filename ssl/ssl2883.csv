@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.215.226.211","logistics-proxy.dev.envs.lookiero.tech","","","","","logistics-proxy.dev.envs.lookiero.tech","","false"
 "52.215.226.209","teads.tv","","","","","teads.tv|*.teads.tv","","false"
 "52.215.226.226","api.therighttopower.com","","","","","api.therighttopower.com","","false"

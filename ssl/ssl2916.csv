@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.198.121.131","example.com","","","","","example.com|www.example.com","127.0.0.1","true"
 "52.198.121.137","*.baitoru.com","dip Corporation","JP","Minato-ku","Tokyo","*.baitoru.com|baitoru.com","","false"
 "52.198.121.141","webhook.calif-app.com","","","","","webhook.calif-app.com","","false"

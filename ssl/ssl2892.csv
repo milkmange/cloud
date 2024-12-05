@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.24.230.71","stg.meritonapartments-anchorbuild.com","","","","","stg.meritonapartments-anchorbuild.com|*.stg.meritonapartments-anchorbuild.com|*.fe.stg.meritonapartments-anchorbuild.com","","false"
 "3.24.230.74","*.superratings.com.au","","","","","*.superratings.com.au|superratings.com.au","","false"
 "3.24.230.79","kube-apiserver","","","","","5ed1307ea21ca72f08ae0ed84b760b61.gr7.ap-southeast-2.eks.amazonaws.com|ip-172-16-125-46.ap-southeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.100.8.83|172.16.125.46","false"

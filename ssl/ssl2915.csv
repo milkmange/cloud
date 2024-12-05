@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.198.50.69","phoneprov04.telecomsvc.com","Accessline Communications Corporation","US","Bellevue","Washington","phoneprov04.telecomsvc.com","","false"
 "52.198.50.78","careerplus.jp","","","","","careerplus.jp|*.careerplus.jp","","false"
 "52.198.50.80","payment.pg-g.com","","","","","payment.pg-g.com","","false"

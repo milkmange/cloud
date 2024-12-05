@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.23.11.156","35.196.216.136","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.196.216.136|192.168.64.1|34.23.11.156|10.0.0.2","false"
 "34.23.11.204","*.gpjcsysc25y.gw.panclouddev.com","PaloAltoNetworks","US","SantaClara","CA","*.gpjcsysc25y.gw.panclouddev.com","","false"
 "34.23.11.153","*.visualwebsiteoptimizer.com","","","","","*.visualwebsiteoptimizer.com|visualwebsiteoptimizer.com","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.218.0.207","kube-apiserver","","","","","1fc0dd91fa61a89694b0b82097aa3213.yl4.ap-southeast-3.eks.amazonaws.com|ip-172-16-114-57.ap-southeast-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.43.134.143|172.16.114.57","false"
 "43.218.1.61","tsgpnapi.jalin.co.id","PT. Jalin Pembayaran Nusantara","ID","Jakarta Selatan","Some-State","","","false"
 "43.218.3.197","*.staging-indo.gsm-api.net","","","","","*.staging-indo.gsm-api.net","","false"

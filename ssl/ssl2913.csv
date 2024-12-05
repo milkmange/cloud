@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.197.171.170","api.audi-naviapp.dev-pgs.pioneer","","","","","api.audi-naviapp.dev-pgs.pioneer","","false"
 "52.197.171.180","*.stg.recommendation.postprime.dev","","","","","*.stg.recommendation.postprime.dev|stg.recommendation.postprime.dev","","false"
 "52.197.171.189","dev.ai-reach.online","","","","","dev.ai-reach.online|*.dev.ai-reach.online","","false"

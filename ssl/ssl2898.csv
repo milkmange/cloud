@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.64.207.7","map.hrog.net","","","","","map.hrog.net|*.map.hrog.net|dev.map.hrog.net|*.dev.map.hrog.net","","false"
 "54.64.207.8","*.caretailx.com","","","","","*.caretailx.com","","false"
 "54.64.207.11","*.kabu-de-rich.jp","Investment College inc.","JP","Osaka","Osaka","*.kabu-de-rich.jp|kabu-de-rich.jp","","false"

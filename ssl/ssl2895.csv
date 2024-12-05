@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.184.0.97","safeledger.co.kr","","","","","safeledger.co.kr|*.safeledger.co.kr|www.safeledger.co.kr","","false"
 "16.184.0.31","harmonycvm.com","","","","","harmonycvm.com|*.harmonycvm.com","","false"
 "16.184.0.40","kube-apiserver","","","","","6f477eff7269fff7e6a2ea2352463319.gr7.ap-northeast-2.eks.amazonaws.com|ip-172-16-33-70.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.1.110.13|172.16.33.70","false"
