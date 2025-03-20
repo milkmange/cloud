@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.171.243.121","34.171.243.121","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.171.243.121|10.32.0.1|35.202.178.129|34.28.39.174|104.154.31.97|10.128.0.34","false"
 "34.171.243.126","104.197.162.12","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","104.197.162.12|10.40.0.1|34.171.243.126|10.128.15.221","false"
 "34.171.243.128","*.loyalty-voice.com","","","","","*.loyalty-voice.com|loyalty-voice.com","","false"

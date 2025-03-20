@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.171.16.59","34.72.89.239","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.72.89.239|10.85.0.1|35.188.38.220|34.171.16.59|34.68.94.254|10.128.15.227","false"
 "34.171.16.66","35.225.219.167","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.225.219.167|10.108.0.1|34.171.16.66|10.128.0.6","false"
 "34.171.16.69","*.tapfantasy.io","","","","","*.tapfantasy.io|tapfantasy.io","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.168.112.64","*.swipesense.com","","","","","*.swipesense.com","","false"
 "3.168.112.83","*.jerrygame.net","","","","","*.jerrygame.net","","false"
 "3.168.113.42","*.images-amazon.com","","","","","*.images-amazon.com","","false"
