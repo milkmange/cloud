@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.16.40.145","104.198.22.151","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","104.198.22.151|100.73.102.129|100.73.108.18|35.238.110.218|34.170.212.60|34.16.40.145","false"
 "34.16.40.135","*.r-cloud.hycu.com","","","","","*.r-cloud.hycu.com|r-cloud.hycu.com","","false"
 "34.16.40.144","34.132.213.178","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.132.213.178|34.118.224.1|10.128.0.53|34.132.233.169|34.16.40.144|34.44.80.146","false"
