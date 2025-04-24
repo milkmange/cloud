@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.43.254.41","lr.fintechpartners-prod.aeroboost.edgecxn.amazon.dev","","","","","lr.fintechpartners-prod.aeroboost.edgecxn.amazon.dev","","false"
 "13.43.254.51","kube-apiserver","","","","","36a345ee03f7f8beddfd99d3c825d453.yl4.eu-west-2.eks.amazonaws.com|ip-172-16-60-89.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.1.191.243|172.16.60.89","false"
 "13.43.254.55","*.orchard-dev.co.uk","MRI Software LLC","US","Solon","Ohio","*.orchard-dev.co.uk","","false"

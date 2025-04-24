@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.42.138.116","kube-apiserver","","","","","600d8caf0cc685217334796f0fc09804.gr7.eu-west-2.eks.amazonaws.com|ip-10-0-123-48.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.24.123|10.0.123.48","false"
 "13.42.138.121","*.webiouk.com","","","","","*.webiouk.com","","false"
 "13.42.138.123","com-aferry-dev.iglu.snplow.net","","","","","com-aferry-dev.iglu.snplow.net","","false"
