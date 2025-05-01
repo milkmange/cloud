@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.199.106.187","smartnews-alb.hosted.content.distribution.dtcisb.technology","","","","","smartnews-alb.hosted.content.distribution.dtcisb.technology|smartnews-alb-latency.hosted.content.distribution.dtcisb.technology|smartnews-alb.us-east-1.hosted.content.distribution.dtcisb.technology|smartnews-alb-weighted.us-west-2.hosted.content.distribution.dtcisb.technology|smartnews-alb-weighted.us-east-1.hosted.content.distribution.dtcisb.technology","","false"
 "44.199.106.192","*.qrveyapp.com","","","","","*.qrveyapp.com","","false"
 "44.199.106.197","*.nddi2d.usa-e1.stgx.cloudhub.io","","","","","*.internal-nddi2d.usa-e1.stgx.cloudhub.io|*.nddi2d.usa-e1.stgx.cloudhub.io|*.stgx.cloudhub.io|*.us-e1.stgx.cloudhub.io","","false"

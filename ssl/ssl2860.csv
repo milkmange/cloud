@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.199.170.189","*.c67.us-east-1.airflow.amazonaws.com","","","","","*.c67.us-east-1.airflow.amazonaws.com","","false"
 "44.199.170.186","device-updates-vewd-dsplayground.dev.tivoservice.com","","","","","device-updates-vewd-dsplayground.dev.tivoservice.com","","false"
 "44.199.170.195","*.trexcloud.com","Okta, Inc.","US","San Francisco","California","*.trexcloud.com|trexcloud.com","","false"

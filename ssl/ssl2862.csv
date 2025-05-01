@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.168.48.190","kube-apiserver","","","","","dae6a3fbe115b706857af77e15737de4.sk1.ap-northeast-3.eks.amazonaws.com|ip-10-0-122-146.ap-northeast-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.85.45|10.0.122.146","false"
 "15.168.48.202","*.apne-3-https-canary.waf.aws.dev","","","","","*.apne-3-https-canary.waf.aws.dev","","false"
 "15.168.48.207","*.ap-northeast-3.es-staging.amazonaws.com","","","","","*.ap-northeast-3.es-staging.amazonaws.com","","false"

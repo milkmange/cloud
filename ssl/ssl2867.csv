@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.189.227.153","*.ifractal.com.br","","","","","*.ifractal.com.br","","false"
 "54.189.227.155","dev-api.patternexp.com","","","","","dev-api.patternexp.com","","false"
 "54.189.227.159","aiprise.com","","","","","aiprise.com|*.aiprise.com","","false"
