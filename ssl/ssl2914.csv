@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.184.193.204","perfectfocuseyecare.3cx.us","","","","","perfectfocuseyecare.3cx.us","","false"
 "35.184.193.210","34.123.207.253","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.123.207.253|34.118.224.1|10.128.0.2|35.184.47.138|35.184.193.210|34.31.200.163","false"
 "35.184.193.223","35.184.193.223","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.184.193.223|10.20.0.1|35.226.5.220|34.16.44.228|10.128.0.14","false"

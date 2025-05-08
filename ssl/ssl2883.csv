@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.43.193.210","*.nascd.rubrik.com","","","","","*.nascd.rubrik.com","","false"
 "13.43.193.212","mcprod.qpjewellers.com","Magento Cloud","FR","","","","","true"
 "13.43.193.214","*.pegacloud.net","","","","","*.pegacloud.net","","false"

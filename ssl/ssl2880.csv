@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.43.4.237","*.gsa1.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.gsa1.splunkcloud.com|gsa1.splunkcloud.com|http-inputs-gsa1.splunkcloud.com|*.http-inputs-gsa1.splunkcloud.com|akamai-inputs-gsa1.splunkcloud.com|*.akamai-inputs-gsa1.splunkcloud.com|http-inputs-ack-gsa1.splunkcloud.com|*.http-inputs-ack-gsa1.splunkcloud.com|http-inputs-firehose-gsa1.splunkcloud.com|*.http-inputs-firehose-gsa1.splunkcloud.com|*.pvt.gsa1.splunkcloud.com|pvt.gsa1.splunkcloud.com","","false"
 "13.43.4.240","*.alulla.people.aws.dev","","","","","*.alulla.people.aws.dev|alulla.people.aws.dev","","false"
 "13.43.4.250","*.eu-west-2.es.amazonaws.com","","","","","*.eu-west-2.es.amazonaws.com","","false"
