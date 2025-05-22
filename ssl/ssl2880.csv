@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.42.251.142","kube-apiserver","","","","","83b5ca8ac48197073cf7af43df5a5188.yl4.eks-cluster.eu-west-2.api.aws|ip-10-0-111-45.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","fd4c:53d0:ce96::1|2a05:d01c:159:2b03:c48f:2ae5:86f6:8d7e|10.0.111.45","false"
 "13.42.251.141","www.the-hvn.com","","","","","the-hvn.com|www.the-hvn.com|staging.the-hvn.com","","false"
 "13.42.251.138","cdncomm.com","","","","","cdncomm.com|*.cdncomm.com","","false"
