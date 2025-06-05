@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.179.246.139","kube-apiserver","","","","","d074b7cd8c077409c82b4ffcd15257b2.gr7.eu-west-2.eks.amazonaws.com|ip-10-0-164-2.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.131.176|10.0.164.2","false"
 "35.179.246.140","stobox4.io","","","","","stobox4.io|*.stobox4.io","","false"
 "35.179.246.142","*.mediasaas.cloud","","","","","*.mediasaas.cloud","","false"
