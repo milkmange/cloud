@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.217.165.19","weightwatchers.com","","","","","weightwatchers.com|*.weightwatchers.nl|*.weightwatchers.ca|*.weightwatchers.de|*.weightwatchers.co.uk|*.weightwatchers.be|ww.com|*.entulinea.es|*.vigilantesdopeso.com.br|*.fr.weightwatchers.ch|*.fr.weightwatchers.be|*.ww.com|*.fr.weightwatchers.ca|*.weightwatchers.com|*.weightwatchers.ch|*.weightwatchers.com.au|*.viktvaktarna.se|*.weightwatchers.fr","","false"
 "3.217.165.29","www.dm.origin.com","Electronic Arts Inc.","US","Redwood City","California","www.dm.origin.com","","false"
 "3.217.165.47","*.blackboard.com","","","","","*.blackboard.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "185.48.120.140","*.eu-west-1.es.amazonaws.com","","","","","*.eu-west-1.es.amazonaws.com|*.cell-01.eu-west-1.es.amazonaws.com","","false"
 "185.48.121.217","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "185.48.121.85","kube-apiserver","","","","","dc242b7f035f7b1848329fc2974b4ffa.yl4.eu-west-1.eks.amazonaws.com|ip-172-16-103-235.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.192.8.4|172.16.103.235","false"

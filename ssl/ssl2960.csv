@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.31.111.9","35.222.36.73","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.222.36.73|34.118.224.1|10.128.0.19|35.202.76.123|35.224.66.159|34.31.111.9","false"
 "34.31.111.8","34.28.254.137","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.28.254.137|34.118.224.1|10.128.0.2|34.173.129.49|34.31.111.8|35.222.210.42","false"
 "34.31.111.18","travelisimo.com","","","","","travelisimo.com|www.travelisimo.com","","false"
