@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.73.180.46","kube-apiserver","","","","","6e6210ff5cd4ebb87f444f7d78a03ecf.gr7.ap-northeast-1.eks.amazonaws.com|ip-172-16-110-130.ap-northeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.66.17.214|172.16.110.130","false"
 "35.73.180.47","*.ap-northeast-1.awsapprunner.com","","","","","*.ap-northeast-1.awsapprunner.com","","false"
 "35.73.180.58","*.ap-northeast-1.awsapprunner.com","","","","","*.ap-northeast-1.awsapprunner.com","","false"
