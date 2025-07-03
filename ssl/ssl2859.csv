@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.75.189.229","ads-staging.locotele.services","","","","","ads-staging.locotele.services","","false"
 "35.75.190.0","cupasp.jp","","","","","cupasp.jp","","false"
 "35.75.190.2","origin.www.shimano.com","","","","","origin.www.shimano.com","","false"

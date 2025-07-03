@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.212.110.242","kube-apiserver","","","","","c991d4dcd7531354bdca09ec92b27893.gr7.eks-cluster.ap-east-2.api.aws|ip-172-16-109-196.ap-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","fd0f:b57e:9839::1|2406:da1c:8dd0:8522:a790:246e:3677:fcb1|172.16.109.196","false"
 "43.212.110.231","*.preprod.ap-east-2.s3-object-lambda.s3.aws.dev","Amazon.com Inc.","US","Seattle","Washington","*.preprod.ap-east-2.s3-object-lambda.s3.aws.dev|*.s3.ap-east-2.amazonaws.com","","false"
 "43.212.111.15","kube-apiserver","","","","","a397a042eda208f78c57c9d6a73a0f1d.sk1.ap-east-2.eks.amazonaws.com|ip-10-0-104-38.ap-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.78.88|10.0.104.38","false"

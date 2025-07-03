@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.131.146.121","ags-e7557c4ab8c04d8fa.us-east-2.prod.agamotto.security.aws.dev","","","","","ags-e7557c4ab8c04d8fa.us-east-2.prod.agamotto.security.aws.dev|kuipersec.ags-e7557c4ab8c04d8fa.us-east-2.prod.agamotto.security.aws.dev","","false"
 "3.131.146.129","kube-apiserver","","","","","73106cfb8013621c023da854a4f42b72.gr7.us-east-2.eks.global.api.aws|ip-172-16-105-226.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","fdee:12f8:844a::1|2600:1f16:a67:f501:1aee:c64b:666:f26|172.16.105.226","false"
 "3.131.146.144","idm-l-qa1-e2.vsddtpisg838.services.ally.com","","","","","idm-l-qa1-e2.vsddtpisg838.services.ally.com","","false"

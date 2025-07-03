@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.88.87.165","kube-apiserver","","","","","31daf0c27bbaafc034207dc14e5e227e.gr7.us-west-2.eks.amazonaws.com|ip-10-0-111-116.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","fd23:e52f:bbe4::1|2600:1f13:c35:1e03::109b|10.0.111.116","false"
 "52.88.87.179","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com","","false"
 "52.88.87.189","*.ekohi.com","","","","","*.ekohi.com","","false"

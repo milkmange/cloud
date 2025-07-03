@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.232.10.181","*.gov.talon-sec.com","","","","","*.gov.talon-sec.com","","false"
 "3.232.10.114","auth.tarzeny.com","","","","","auth.tarzeny.com","","false"
 "3.232.11.33","*.stg.cloud.dex.co","","","","","*.stg.cloud.dex.co|stg.cloud.dex.co","","false"

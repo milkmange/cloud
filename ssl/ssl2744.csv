@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.218.232.154","*.ud8s94e87kt44.us-east-1.cs.amazonlightsail.com","","","","","*.ud8s94e87kt44.us-east-1.cs.amazonlightsail.com","","false"
 "3.218.232.161","*.nonprod.nsam.nissancloud.com","","","","","*.nonprod.nsam.nissancloud.com|*.stg2.nonprod.nsam.nissancloud.com|*.stg1.nonprod.nsam.nissancloud.com|*.dev1.nonprod.nsam.nissancloud.com|*.dev.nonprod.nsam.nissancloud.com|*.qa1.nonprod.nsam.nissancloud.com|*.dev2.nonprod.nsam.nissancloud.com|*.qa.nonprod.nsam.nissancloud.com|*.qa2.nonprod.nsam.nissancloud.com|*.stg.nonprod.nsam.nissancloud.com","","false"
 "3.218.232.162","brian-2.magpiecollectibles.com","","","","","brian-2.magpiecollectibles.com|*.brian-2.magpiecollectibles.com","","false"
