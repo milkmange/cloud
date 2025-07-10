@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.241.125.110","unibo.io","","","","","unibo.io|*.unibo.io","","false"
 "34.241.125.109","*.production.getintouch.group","","","","","*.production.getintouch.group","","false"
 "34.241.125.118","*.eu-west-1.es.amazonaws.com","","","","","*.eu-west-1.es.amazonaws.com","","false"

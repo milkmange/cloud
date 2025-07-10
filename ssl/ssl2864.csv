@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.181.30.66","*.konycloud.com","","","","","*.konycloud.com|konycloud.com","","false"
 "18.181.30.67","*.cachatto-cloud.com","","","","","*.cachatto-cloud.com|cachatto-cloud.com","","false"
 "18.181.30.71","ecn.rootcom.jp","","","","","ecn.rootcom.jp","","false"

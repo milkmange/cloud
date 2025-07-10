@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.232.142.86","admin.grap.es","","","","","admin.grap.es","","false"
 "3.232.142.92","flicportal.com","","","","","flicportal.com|*.flicportal.com","","false"
 "3.232.142.100","oportunidades.getsoft.app","","","","","oportunidades.getsoft.app|www.oportunidades.getsoft.app","","false"

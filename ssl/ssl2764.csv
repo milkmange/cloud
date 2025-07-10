@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.95.99.156","*.veevavault.com","Veeva Systems Inc.","US","Pleasanton","California","*.veevavault.com","","false"
 "3.95.99.160","*.veevavault.com","Veeva Systems Inc.","US","Pleasanton","California","*.veevavault.com","","false"
 "3.95.99.165","*.veevavault.com","Veeva Systems Inc.","US","Pleasanton","California","*.veevavault.com","","false"
