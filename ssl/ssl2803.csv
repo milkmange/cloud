@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.153.51.222","*.a1.typesense.net","","","","","*.a1.typesense.net|a1.typesense.net","","false"
 "54.153.51.237","*.brinkpos.net","","","","","*.brinkpos.net|brinkpos.net","","false"
 "54.153.51.239","*.neocraftstudio.com","","","","","*.neocraftstudio.com|neocraftstudio.com","","false"
