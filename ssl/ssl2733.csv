@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.124.25.41","officialnewtoki.com","","","","","officialnewtoki.com|www.officialnewtoki.com","","false"
 "13.124.25.56","*.phigolf.com","","","","","*.phigolf.com","","false"
 "13.124.25.71","*.oauth.aibixby.com","","","","","*.oauth.aibixby.com","","false"

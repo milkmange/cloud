@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.41.182.38","kube-apiserver","","","","","fa8afde9c7b3c0012bdc96ee0d6cf757.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-120-0.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.1.54|172.16.120.0","false"
 "13.41.182.41","kube-apiserver","","","","","1948443ca5701336cba2fe743c945fd8.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-126-166.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.80.7.84|172.16.126.166","false"
 "13.41.182.42","netagility","Viasat, Inc.","US","Carlsbad","California","netagility","","true"

@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.12.63.12","*.acbtc.fi","","","","","*.acbtc.fi","","false"
 "3.12.63.23","kube-apiserver","","","","","767dc5f14a7d5f5dd16329126559804a.gr7.us-east-2.eks.amazonaws.com|ip-10-0-110-75.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.90.87|10.0.110.75","false"
 "3.12.63.29","wackypacks.com","","","","","wackypacks.com|greggrant.org|wackypackages.org|www.wackypackages.org|wackymall.com","","false"

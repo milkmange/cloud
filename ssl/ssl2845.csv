@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.178.216.10","mfaproxy.iucdashboard-scisys.co.uk","","","","","mfaproxy.iucdashboard-scisys.co.uk","","false"
 "35.178.216.5","kube-apiserver","","","","","6029198d15377b7671f06cb1cff91e23.gr7.eu-west-2.eks.amazonaws.com|ip-10-0-37-125.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.107.239|10.0.37.125","false"
 "35.178.216.18","gateway.ftgone.co.za","","","","","gateway.ftgone.co.za","","false"

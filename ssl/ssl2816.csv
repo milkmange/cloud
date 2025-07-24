@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.34.116.48","*.tenping.kr","","","","","*.tenping.kr|tenping.net|tenping.kr|*.tenping.net","","false"
 "3.34.116.54","6686bet-01-788817122.ap-northeast-2.elb.amazonaws.com","","","","","6686bet-01-788817122.ap-northeast-2.elb.amazonaws.com","","false"
 "3.34.116.57","*.daekyo.com","Daekyo Co., Ltd.","KR","Gwanak-gu","Seoul","*.daekyo.com|daekyo.com","","false"

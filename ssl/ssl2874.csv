@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.42.77.3","*.cmq3sykd34g6m.eu-west-2.cs.amazonlightsail.com","","","","","*.cmq3sykd34g6m.eu-west-2.cs.amazonlightsail.com","","false"
 "13.42.77.13","kube-apiserver","","","","","b00552e7e05ff60cf96c2adb655165e6.sk1.eu-west-2.eks.amazonaws.com|ip-172-16-163-31.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.98|172.16.163.31","false"
 "13.42.77.21","*.allocate-cloud.co.uk","","","","","*.allocate-cloud.co.uk","","false"
