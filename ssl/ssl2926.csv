@@ -18,6 +18,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.168.204.218","*.coffee-iot.com","","","","","*.coffee-iot.com|coffee-iot.com","","false"
 "3.168.204.28","*.dmp.tconnect.jp","","","","","*.dmp.tconnect.jp|dmp.tconnect.jp","","false"
 "3.168.204.196","aax-fe.amazon.com","","","","","aax-fe.amazon.com|origin-aax-fe.amazon.com|aax-fe.amazon.co.jp|aax-fe.amazon.com.au|aax-fe.amazon.sg","","false"

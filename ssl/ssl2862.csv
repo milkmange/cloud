@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.180.113.142","dev.to-fj.net","","","","","dev.to-fj.net|*.dev.to-fj.net","","false"
 "18.180.113.147","*.kai-dev.gu3.jp","","","","","*.kai-dev.gu3.jp|kai-dev.gu3.jp","","false"
 "18.180.113.155","www.stg.oitabank-webdenpyo.jp","","","","","www.stg.oitabank-webdenpyo.jp|stg.oitabank-webdenpyo.jp","","false"

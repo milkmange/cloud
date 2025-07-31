@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.35.106.128","*.coreline.io","","","","","*.coreline.io","","false"
 "3.35.106.136","trust-law.co.kr","","","","","trust-law.co.kr|*.trust-law.co.kr","","false"
 "3.35.106.138","*.mq.ap-northeast-2.amazonaws.com","","","","","*.mq.ap-northeast-2.amazonaws.com","","false"

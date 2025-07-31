@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.201.226.234","*.veraeng.com","","","","","*.veraeng.com|veraeng.com","","false"
 "54.201.226.240","*.l3d7s7oh7vlha.us-west-2.cs.amazonlightsail.com","","","","","*.l3d7s7oh7vlha.us-west-2.cs.amazonlightsail.com","","false"
 "54.201.226.253","*.cenovus.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.cenovus.splunkcloud.com|cenovus.splunkcloud.com|es-cenovus.splunkcloud.com|*.es-cenovus.splunkcloud.com|http-inputs-cenovus.splunkcloud.com|*.http-inputs-cenovus.splunkcloud.com|akamai-inputs-cenovus.splunkcloud.com|*.akamai-inputs-cenovus.splunkcloud.com|http-inputs-ack-cenovus.splunkcloud.com|*.http-inputs-ack-cenovus.splunkcloud.com|http-inputs-firehose-cenovus.splunkcloud.com|*.http-inputs-firehose-cenovus.splunkcloud.com|*.pvt.cenovus.splunkcloud.com|pvt.cenovus.splunkcloud.com","","false"

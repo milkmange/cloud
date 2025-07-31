@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.234.80.26","dev0628.indigopayments.com","","","","","dev0628.indigopayments.com","","false"
 "3.234.80.28","us.managemyurl.com","","","","","us.managemyurl.com","","false"
 "3.234.80.42","route.cit.hybrid.api.here.com","HERE Global B.V.","NL","Eindhoven","Noord-Brabant","route.cit.hybrid.api.here.com|*.route.cit.hybrid.api.here.com|*.route.cit.hybrid.cc.api.here.com|*.api-gateway.ls.hereapi.com","","false"
