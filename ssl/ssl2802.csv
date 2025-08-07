@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.29.222.85","kube-apiserver","","","","","0b02f66b08e160312a13bc3d4ed308a9.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-187-127.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.4.180|172.16.187.127","false"
 "52.29.222.86","online-integrations.raisegaming.com","","","","","online-integrations-admin-api.raisegaming.com|online-integrations-api.raisegaming.com|online-integrations-ws.raisegaming.com|online-integrations.raisegaming.com","","false"
 "52.29.222.88","*.gms-online.de","","","","","*.gms-online.de|gms-online.de","","false"

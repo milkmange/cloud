@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.193.127.237","*.dev.fa-biz.deloitte.jp","","","","","*.dev.fa-biz.deloitte.jp|dev.fa-biz.deloitte.jp","","false"
 "52.193.127.247","*.85ho3g4octe24.ap-northeast-1.cs.amazonlightsail.com","","","","","*.85ho3g4octe24.ap-northeast-1.cs.amazonlightsail.com","","false"
 "52.193.127.248","pickka.jp","","","","","pickka.jp|*.pickka.jp","","false"

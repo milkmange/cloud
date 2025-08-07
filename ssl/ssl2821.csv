@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.240.182.0","*.dataportal.sustainalytics.com","","","","","*.dataportal.sustainalytics.com","","false"
 "34.240.181.254","*.media.arabiaweather.com","","","","","*.media.arabiaweather.com|*.devops.arabiaweather.com","","false"
 "34.240.182.6","kube-apiserver","","","","","0bc5aa2871b7ce5ae8b131809fc4c6fb.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-168-99.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.112.51|172.16.168.99","false"
