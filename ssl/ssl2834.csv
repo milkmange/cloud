@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.246.147.215","*.ifeelonline.com","","","","","*.ifeelonline.com|ifeelonline.com","","false"
 "34.246.147.220","dev.fastway.ie","","","","","dev.fastway.ie|www.dev.fastway.ie","","false"
 "34.246.147.246","platform.shared-services.izettle.net","","","","","platform.shared-services.izettle.net|*.platform.shared-services.izettle.net","","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.42.144.171","*.eu-west-2.es.amazonaws.com","","","","","*.eu-west-2.es.amazonaws.com","","false"
 "13.42.144.175","storage-api-canary-lb-eu-west-2-adm.supabase.co","","","","","storage-api-canary-lb-eu-west-2-adm.supabase.co","","false"
 "13.42.144.176","*.konquest.io","","","","","*.konquest.io","","false"

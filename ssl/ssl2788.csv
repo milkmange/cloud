@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.234.18.62","kube-apiserver","","","","","5683c2ec377a60652e463e7d7fe89e1e.gr7.us-east-1.eks.amazonaws.com|ip-172-16-97-29.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.4.118.72|172.16.97.29","false"
 "3.234.18.76","*.awsvivision.manheim.com","","","","","*.awsvivision.manheim.com","","false"
 "3.234.18.87","*.outsystemsenterprise.com","Outsystems - Software Em Rede S.A.","PT","Linda-A-Velha","","*.outsystemsenterprise.com|outsystemsenterprise.com","","false"

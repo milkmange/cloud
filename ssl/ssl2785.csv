@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.233.69.16","wirecutter-dev.awsma.nyt.net","","","","","wirecutter-dev.awsma.nyt.net|*.r2d2.wirecutter-dev.awsma.nyt.net|*.stg.wirecutter-dev.awsma.nyt.net|*.wirecutter-dev.awsma.nyt.net|*.plats2.wirecutter-dev.awsma.nyt.net|*.warp.wirecutter-dev.awsma.nyt.net|*.dev.wirecutter-dev.awsma.nyt.net","","false"
 "3.233.69.17","*.development.prometheusgroup.app","","","","","*.development.prometheusgroup.app","","false"
 "3.233.69.22","*.us-east-1.cloudsearch.amazonaws.com","","","","","*.us-east-1.cloudsearch.amazonaws.com","","false"
