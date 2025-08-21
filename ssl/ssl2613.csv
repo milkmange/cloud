@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.165.11.23","*.beta.consumerism.pressganey.com","","","","","*.beta.consumerism.pressganey.com|*.pat2.consumerism.pressganey.com|*.skunkworks.consumerism.pressganey.com","","false"
 "54.165.11.35","*.ir8drvo333leq.us-east-1.cs.amazonlightsail.com","","","","","*.ir8drvo333leq.us-east-1.cs.amazonlightsail.com","","false"
 "54.165.11.47","*.ccb.org.co","CAMARA DE COMERCIO DE BOGOTA","CO","BOGOTA","","*.ccb.org.co|ccb.org.co","","false"

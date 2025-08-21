@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.188.65.33","*.tnpdigitallab.com","","","","","*.tnpdigitallab.com|tnpdigitallab.com","","false"
 "15.188.65.63","biancagabriela-dev.com","","","","","biancagabriela-dev.com","","false"
 "15.188.65.64","argentinago.com","","","","","argentinago.com|www.argentinago.com","","false"

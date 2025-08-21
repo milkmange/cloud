@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.87.148.233","*.gtm.liiaws.net","","","","","*.gtm.liiaws.net","","false"
 "3.87.148.240","grupogb.3cx.co","","","","","grupogb.3cx.co","","false"
 "3.87.148.241","landingpages.quipli.com","","","","","landingpages.quipli.com|*.landingpages.quipli.com","","false"

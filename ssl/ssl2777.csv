@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.131.216.109","wilsontool.net","","","","","wilsontool.net|*.wilsontool.org|wilsontool.org|*.wilsontool.biz|wilsontool.cloud|wilsontool.biz|*.wilsontool.net|*.wilsontool.cloud","","false"
 "3.131.216.119","hero-rebrand.unmetneed.healthcare","","","","","hero-rebrand.unmetneed.healthcare","","false"
 "3.131.216.132","kube-apiserver","","","","","382b895dae4c42869c87e9db28b12a2d.gr7.us-east-2.eks.amazonaws.com|ip-172-16-56-15.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.0.25|172.16.56.15","false"

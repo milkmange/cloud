@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.201.62.96","kube-apiserver","","","","","4df945d9fba0540f068cc6266f6c0dae.gr7.us-west-2.eks.amazonaws.com|ip-172-16-102-60.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.27.127|172.16.102.60","false"
 "54.201.62.91","*.ekentech.com","","","","","*.ekentech.com","","false"
 "54.201.62.105","use4-apic.dm-us.informaticacloud.com","Informatica LLC","US","Redwood City","California","use4-gw.dm-us.informaticacloud.com|use4-apic.dm-us.informaticacloud.com|use4-apim.dm-us.informaticacloud.com|use4-apigw.dm-us.informaticacloud.com","","false"
