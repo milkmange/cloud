@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.170.117.1","livenote.com","Thomson Reuters Corporation","CA","","Ontario","livenote.com|ir3.livenote.com|livenotecentral.com|livenotestream.thomsonreuters.com|lnsvideoprod.thomsonreuters.com|stream.livenote.com|ws1.livenote.com|ws2.livenote.com|www.livenote.com|www.livenotecentral.com","","false"
 "35.170.117.2","*.colleague.elluciancloud.com","Ellucian Company LLC","US","Reston","Virginia","*.colleague.elluciancloud.com","","false"
 "35.170.117.7","*.netacad.com","","","","","*.netacad.com","","false"

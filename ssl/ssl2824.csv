@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.241.224.28","kube-apiserver","","","","","ef57dab79a90499da2c644db00727d4c.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-96-207.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.8.5.28|172.16.96.207","false"
 "34.241.224.47","*.fiftyoutlet.com","","","","","*.fiftyoutlet.com","","false"
 "34.241.224.82","*.eu-west-1.es.amazonaws.com","","","","","*.eu-west-1.es.amazonaws.com|*.cell-01.eu-west-1.es.amazonaws.com","","false"

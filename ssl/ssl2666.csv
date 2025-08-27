@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.203.62.243","*.metadna.kr","","","","","*.metadna.kr","","false"
 "43.203.63.9","*.kytvonline.com","","","","","*.kytvonline.com","","false"
 "43.203.63.7","*.neubie.ai","","","","","*.neubie.ai","","false"

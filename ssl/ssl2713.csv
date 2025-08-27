@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.0.201.23","*.infinitecampus.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.infinitecampus.splunkcloud.com|infinitecampus.splunkcloud.com|http-inputs-infinitecampus.splunkcloud.com|*.http-inputs-infinitecampus.splunkcloud.com|akamai-inputs-infinitecampus.splunkcloud.com|*.akamai-inputs-infinitecampus.splunkcloud.com|http-inputs-ack-infinitecampus.splunkcloud.com|*.http-inputs-ack-infinitecampus.splunkcloud.com|http-inputs-firehose-infinitecampus.splunkcloud.com|*.http-inputs-firehose-infinitecampus.splunkcloud.com|*.pvt.infinitecampus.splunkcloud.com|pvt.infinitecampus.splunkcloud.com","","false"
 "52.0.201.25","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"
 "52.0.201.29","*.netconsultinggroup.com","","","","","*.netconsultinggroup.com|netconsultinggroup.com","","false"

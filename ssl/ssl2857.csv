@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.75.41.73","*.job-note.jp","","","","","*.job-note.jp|www.dev.job-note.jp","","false"
 "35.75.41.75","tajimatool.co.jp","","","","","tajimatool.co.jp|*.tajimatool.co.jp","","false"
 "35.75.41.84","*.gp-prod.conde.digital","","","","","*.gp-prod.conde.digital","","false"
