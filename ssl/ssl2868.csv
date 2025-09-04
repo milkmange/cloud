@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.12.139.49","*.kubofinanciero.com","","","","","*.kubofinanciero.com|kubofinanciero.com","","false"
 "3.12.139.55","prod.snk.accelbyte.io","","","","","prod.snk.accelbyte.io|*.prod.snk.accelbyte.io","","false"
 "3.12.139.62","*.drivehos.com","","","","","*.drivehos.com","","false"

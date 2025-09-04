@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.200.229.193","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-02.us-west-2.es.amazonaws.com","","false"
 "54.200.229.219","a920286e-095e-44b0-b421-fe1b59eced31.create-burner.amazon.dev","","","","","a920286e-095e-44b0-b421-fe1b59eced31.create-burner.amazon.dev|us-west-2.alpha.a920286e-095e-44b0-b421-fe1b59eced31.create-burner.amazon.dev","","false"
 "54.200.229.252","*.file.samsungcloud.com","SAMSUNG ELECTRONICS CO,.LTD","KR","","Gyeonggi-do","*.file.samsungcloud.com|file.samsungcloud.com","","false"

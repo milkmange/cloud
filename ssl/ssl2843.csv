@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.178.0.89","*.qa.countingup.com","","","","","*.qa.countingup.com|qa.countingup.com","","false"
 "35.178.2.48","*.xg49tt8xh9a5y.eu-west-2.cs.amazonlightsail.com","","","","","*.xg49tt8xh9a5y.eu-west-2.cs.amazonlightsail.com","","false"
 "35.178.3.73","shkolo.dev","","","","","shkolo.dev|*.shkolo.dev","","false"

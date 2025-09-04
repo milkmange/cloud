@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.202.130.173","*.stzapp.com","","","","","*.stzapp.com","","false"
 "43.202.130.162","er2-master","IT","SG","Singapore","Singapore","","","true"
 "43.202.130.171","ko.goldengoose.io","","","","","ko.goldengoose.io|es.goldengoose.io|en.goldengoose.io|cn.goldengoose.io|jp.goldengoose.io","","false"

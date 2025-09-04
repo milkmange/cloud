@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.1.131.42","kube-apiserver","","","","","8d11981e420f522d2e9715036d529280.gr7.us-east-1.eks.amazonaws.com|ip-172-16-38-147.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.10.51.76|172.16.38.147","false"
 "52.1.131.46","kube-apiserver","","","","","33dfbf087cc54c249e742120e0993761.gr7.us-east-1.eks.amazonaws.com|ip-172-16-160-90.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.214.199.208|172.16.160.90","false"
 "52.1.131.47","*.qa-na-onega.wkgposvc.cloud","","","","","*.qa-na-onega.wkgposvc.cloud","","false"

@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.241.30.92","apihaba.prod.wptg.kashxa-infra.com","","","","","apihaba.prod.wptg.kashxa-infra.com","","false"
 "34.241.30.96","*.c8.eu-west-1.airflow.amazonaws.com","","","","","*.c8.eu-west-1.airflow.amazonaws.com","","false"
 "34.241.30.100","*.sandpit.cfl.scs.sandstone.cloud","","","","","*.sandpit.cfl.scs.sandstone.cloud|sandpit.cfl.scs.sandstone.cloud","","false"

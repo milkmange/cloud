@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.242.181.49","*.eu-west-1.es-staging.amazonaws.com","","","","","*.eu-west-1.es-staging.amazonaws.com|*.cell-01.eu-west-1.es-staging.amazonaws.com","","false"
 "34.242.181.53","bodidata.eu","","","","","bodidata.eu|*.bodidata.eu","","false"
 "34.242.181.57","api-worldcheck-pilot.refinitiv.com","REFINITIV US LLC","US","","New York","api-worldcheck-pilot.refinitiv.com","","false"

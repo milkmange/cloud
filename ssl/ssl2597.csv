@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.169.24.225","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "35.169.24.228","algiztactical.com","","","","","algiztactical.com","","false"
 "35.169.24.235","*.coinmarketcap.com","","","","","*.coinmarketcap.com|*.prod.coinmarketcap.com|*.beta.coinmarketcap.com|*.staging.coinmarketcap.com","","false"
