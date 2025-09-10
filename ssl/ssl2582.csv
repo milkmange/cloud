@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "63.178.36.85","kube-apiserver","","","","","e529c0fc97c85a24eb1ee7d8fd071e69.yl4.eu-central-1.eks.amazonaws.com|ip-172-16-59-151.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.0.23|172.16.59.151","false"
 "63.178.36.100","*.trckng.zalan.do","","","","","*.trckng.zalan.do","","false"
 "63.178.36.96","kube-apiserver","","","","","cec119e1358544ca8d79a724ea6cb388.gr7.eu-central-1.eks.amazonaws.com|ip-10-0-56-28.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","192.168.0.1|172.28.11.199|10.0.56.28","false"

@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.203.4.222","stg-store.lotteon.com","","","","","stg-store.lotteon.com","","false"
 "43.203.4.220","*.stg-t-wal.com","","","","","*.stg-t-wal.com|stg-t-wal.com","","false"
 "43.203.4.232","kube-apiserver","","","","","7e2ddab2cc9fa207951a3abd1a87aa6d.yl4.ap-northeast-2.eks.amazonaws.com|ip-172-16-55-141.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.10.24.54|172.16.55.141","false"

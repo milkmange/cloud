@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.44.184.12","ip-172-31-8-3","SomeOrganization","--","SomeCity","SomeState","localhost|localhost.localdomain|ip-172-31-8-3|ip-172-31-8-3.us-west-2.compute.internal","","true"
 "52.44.184.24","nitrous-iad.origin.live.aiv-cdn.net","","","","","nitrous-iad.origin.live.aiv-cdn.net|elemental-iad.origin.live.us.aiv-cdn.net|iad.prod.legacy.origin.live.aiv-cdn.net","","false"
 "52.44.184.29","*.prgconf.icariohealth.io","","","","","*.prgconf.icariohealth.io","","false"

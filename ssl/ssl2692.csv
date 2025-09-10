@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.37.254.175","kube-apiserver","","","","","858e4fd6f81b5a70c3a5ec86fe8dc436.gr7.ap-northeast-2.eks.amazonaws.com|ip-172-16-47-0.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.28.179|172.16.47.0","false"
 "3.37.254.189","www.elbnefario.com","","","","","www.elbnefario.com","","true"
 "3.37.254.181","fanboost.co.kr","","","","","fanboost.co.kr|*.fanboost.co.kr","","false"

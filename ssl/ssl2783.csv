@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.232.200.255","kube-apiserver","","","","","a29cae560071ea4bf838a2c45402b42b.gr7.us-east-1.eks.amazonaws.com|ip-172-16-104-145.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.34.11.31|172.16.104.145","false"
 "3.232.201.0","*.shared.pos.pditechnologies.com","","","","","*.shared.pos.pditechnologies.com","","false"
 "3.232.201.4","inpolisci.org","","","","","inpolisci.org|www.inpolisci.org","","false"

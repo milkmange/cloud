@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.171.132.89","*.samsungpositioning.com","SAMSUNG ELECTRONICS CO,.LTD","KR","","Gyeonggi-do","*.samsungpositioning.com|samsungpositioning.com","","false"
 "54.171.132.104","*.cphostaccess.com","","","","","*.cphostaccess.com","","false"
 "54.171.132.102","kube-apiserver","","","","","437921bc230cd72c9b9f29ef8e17bd3f.gr7.eu-west-1.eks.amazonaws.com|ip-10-0-179-143.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.23.10.39|10.0.179.143","false"

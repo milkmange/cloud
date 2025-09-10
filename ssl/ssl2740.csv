@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "57.181.131.201","voi-stg.0101.co.jp","","","","","voi-stg.0101.co.jp","","false"
 "57.181.131.202","*.aws-terra.xyz","","","","","*.aws-terra.xyz","","false"
 "57.181.131.207","*.livests.dev.caption.soundud.com","","","","","*.livests.dev.caption.soundud.com","","false"

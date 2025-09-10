@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.69.218.215","store2.proflex.co.jp","","","","","store2.proflex.co.jp","","false"
 "52.69.218.218","*.vn.misumi-ec.com","","","","","*.vn.misumi-ec.com","","false"
 "52.69.218.222","*.papirs.jp","","","","","*.papirs.jp","","false"

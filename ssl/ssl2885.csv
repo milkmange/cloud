@@ -20,6 +20,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.90.9.59","onlineprograms.sdabocconi.it","","","","","onlineprograms.sdabocconi.it","","false"
 "34.90.9.74","34.13.206.138","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.13.206.138|34.118.224.1|10.50.82.2|34.147.126.171|34.90.9.74","false"
 "34.90.9.91","34.90.9.91","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.90.9.91|34.118.224.1|10.43.100.2|34.147.106.128|34.13.245.91","false"

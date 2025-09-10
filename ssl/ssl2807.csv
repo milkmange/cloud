@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.139.19.174","staging.ap-southeast-1-c0.prod.fcp.lambda.aws.dev","","","","","staging.ap-southeast-1-c0.prod.fcp.lambda.aws.dev","","false"
 "18.139.19.178","onekey.so","","","","","onekey.so|*.onekey.so","","false"
 "18.139.19.188","ai.close.nil.cool","","","","","ai.close.nil.cool","","false"

@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.93.146.237","*.api.mtriks.xyz","","","","","*.api.mtriks.xyz","","false"
 "54.93.146.168","*.moodle.d5.class.com","","","","","*.moodle.d5.class.com|*.moodle.pod-1.eu-central-1.d5.classedu4.com","","false"
 "54.93.146.235","eu.snap.soti.net","","","","","eu.snap.soti.net|*.eu.snap.soti.net","","false"

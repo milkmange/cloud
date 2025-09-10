@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.1.12.69","msites-prod.xyz","","","","","msites-prod.xyz|*.msites-prod.xyz","","false"
 "52.1.12.74","api.prod.enflux.com","","","","","api.prod.enflux.com","","false"
 "52.1.12.80","listenercare-stg.siriusxm.com","","","","","listenercare-stg.siriusxm.com|*.pegacloud.net|*.pega.com|*.pegacloud.io","","false"
