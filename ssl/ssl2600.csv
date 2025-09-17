@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.169.213.187","patriotfcu.myeleveo.com","","","","","patriotfcu.myeleveo.com","","false"
 "35.169.213.195","carclick.com.br","","","","","carclick.com.br|*.carclick.com.br","","false"
 "35.169.213.212","collectionhq-test.net","","","","","collectionhq-test.net|*.collectionhq-test.net","","false"

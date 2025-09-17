@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.37.22.117","kube-apiserver","","","","","655acb9ee7897f918d1590c7908a29a2.gr7.ap-northeast-2.eks.amazonaws.com|ip-172-16-116-182.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.133|172.16.116.182","false"
 "3.37.22.118","*.modoofind.com","","","","","*.modoofind.com","","false"
 "3.37.22.134","*.c9ioml4bpip1c.ap-northeast-2.cs.amazonlightsail.com","","","","","*.c9ioml4bpip1c.ap-northeast-2.cs.amazonlightsail.com","","false"

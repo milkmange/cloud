@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.34.16.91","*.ap-northeast-2.es.amazonaws.com","","","","","*.ap-northeast-2.es.amazonaws.com","","false"
 "3.34.16.223","www.dwhf.co.kr","Dongwon Home Food Co., Ltd.","KR","Seocho-gu","Seoul","www.dwhf.co.kr|*.thebanchan.co.kr|thebanchan.co.kr|*.ekcm.co.kr|ekcm.co.kr|dwhf.co.kr","","false"
 "3.34.16.144","www.ordapaper.com","","","","","www.ordapaper.com","","false"

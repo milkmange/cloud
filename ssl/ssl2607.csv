@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.171.251.210","*.cert.us.e01.c01.johndeerecloud.com","","","","","*.cert.us.e01.c01.johndeerecloud.com|*.deere.com","","false"
 "35.171.251.211","staging.liguelead.app.br","","","","","staging.liguelead.app.br|*.staging.liguelead.app.br","","false"
 "35.171.251.226","*.smartsimple.com","","","","","*.smartsimple.com|smartsimple.com","","false"

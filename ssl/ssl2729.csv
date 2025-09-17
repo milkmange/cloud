@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.22.151.143","kube-apiserver","","","","","a43f514fc13676628d5e7c7ae9621162.gr7.us-east-2.eks.amazonaws.com|ip-172-16-113-213.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.32.79.121|172.16.113.213","false"
 "3.22.151.145","app.aescape.com","","","","","app.aescape.com|dev.app.aescape.com|qa.app.aescape.com","","false"
 "3.22.151.151","*.compliance2product.com","","","","","*.compliance2product.com","","false"

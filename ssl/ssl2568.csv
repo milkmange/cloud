@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.157.61.96","kube-apiserver","","","","","ce1dcbe781b769a5c5e2d7a4f401064a.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-50-61.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.66.20.138|172.16.50.61","false"
 "35.157.61.97","staging.mygolfbase.com","","","","","staging.mygolfbase.com|mgb-staging.codegreenit.com|g4h-staging.codegreenit.com","","false"
 "35.157.61.104","*.custodia-tech.com","","","","","*.custodia-tech.com|custodia.ai|custodia-tech.com|*.development.custodia-tech.com|*.custodia.ai|*.sandbox.custodia-tech.com","","false"

@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.213.121.139","*.b6h3endeumdb2.us-west-2.cs.amazonlightsail.com","","","","","*.b6h3endeumdb2.us-west-2.cs.amazonlightsail.com","","false"
 "54.213.121.144","herzog--suivdq.app.us.cdo.cisco.com","Cisco Systems Inc.","US","San Jose","California","herzog--suivdq.app.us.cdo.cisco.com","","false"
 "54.213.121.149","nonprod.securecodewarrior.com","","","","","nonprod.securecodewarrior.com|*.nonprod.securecodewarrior.com","","false"

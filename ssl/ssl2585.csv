@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.9.206.175","CloudFlare Origin Certificate","CloudFlare, Inc.","","","","*.dataprotectionpeople.com|dataprotectionpeople.com","","false"
 "3.9.206.168","devops.gozem.co","","","","","devops.gozem.co","","false"
 "3.9.206.178","a1-panther.soteria.com","","","","","a1-panther.soteria.com","","false"

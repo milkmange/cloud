@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "75.101.253.35","api-qc.ap.alight.com","","","","","api-qc.ap.alight.com|api.qc.alight.com","","false"
 "75.101.253.46","*.crashpalassistant.com","","","","","*.crashpalassistant.com","","false"
 "75.101.253.51","*.cleara.com","Cleara, LLC","US","","Pennsylvania","*.cleara.com|cleara.com","","false"

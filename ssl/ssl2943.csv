@@ -25,6 +25,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.162.96.107","www.vm.com","Dis","PL","Springfield","Denial","www.vm.com|vm.com|*.vm.com","","false"
 "34.162.96.109","34.162.21.43","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.162.21.43|34.118.224.1|10.202.0.101|34.162.96.109","false"
 "34.162.96.140","34.162.96.140","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.162.96.140|34.118.224.1|10.202.0.6|34.162.0.157|34.162.64.166|34.162.151.44","false"
