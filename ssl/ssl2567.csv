@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.157.12.236","streamingtech.de","","","","","streamingtech.de|*.streamingtech.de","","false"
 "35.157.12.239","zf-pma.aryxe.tech","","","","","zf-pma.aryxe.tech","","false"
 "35.157.12.247","*.staging.atf-tagmanager.de","","","","","*.staging.atf-tagmanager.de|staging.atf-tagmanager.de","","false"

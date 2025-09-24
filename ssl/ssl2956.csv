@@ -29,6 +29,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.30.138.54","34.132.151.105","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.132.151.105|10.16.0.1|10.128.0.21|34.31.154.175|34.57.6.24|104.197.241.185","false"
 "34.30.138.62","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "34.30.138.66","sigmaonline.com.br","","","","","procon.netnucleo.com.br|sigmaonline.com.br|www.sigmaonline.com.br","","false"

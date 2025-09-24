@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.240.84.2","*.eu-west-1.cloudsearch.amazonaws.com","","","","","*.eu-west-1.cloudsearch.amazonaws.com","","false"
 "34.240.84.16","*.eu-west-1.cloudsearch.amazonaws.com","","","","","*.eu-west-1.cloudsearch.amazonaws.com","","false"
 "34.240.83.248","example.com","","","","","example.com|www.example.com","127.0.0.1","true"

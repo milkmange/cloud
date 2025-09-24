@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.57.175.44","code.int.connected.bmw","","","","","code.int.connected.bmw","","false"
 "52.57.175.51","*.api.alivewater.cloud","","","","","*.api.alivewater.cloud|*.api.alivewater.online","","false"
 "52.57.175.55","dev.api.50slove.com","","","","","dev.api.50slove.com","","false"

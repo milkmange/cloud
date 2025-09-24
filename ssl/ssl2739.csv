@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "57.181.59.100","sandbox.mypal.io","","","","","sandbox.mypal.io|www.sandbox.mypal.io","","false"
 "57.181.59.101","*.ap-northeast-1.es.amazonaws.com","","","","","*.ap-northeast-1.es.amazonaws.com|*.cell-01.ap-northeast-1.es.amazonaws.com","","false"
 "57.181.59.113","ottade.jp","","","","","ottade.jp|*.ottade.jp","","false"

@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.167.208.244","pipepipe.dev","","","","","pipepipe.dev|*.pipepipe.dev","","false"
 "54.167.209.12","springfield.crazycheapfireworks.biz","","","","","springfield.crazycheapfireworks.biz|www.springfield.crazycheapfireworks.biz","","false"
 "54.167.209.19","*.togal.ai","","","","","*.togal.ai","","false"

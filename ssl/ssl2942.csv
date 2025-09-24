@@ -26,6 +26,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.155.141.227","34.163.37.43","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.163.37.43|10.103.0.1|192.168.0.2|34.163.100.255|34.155.141.227|34.163.62.188","false"
 "34.155.141.172","pritunl.vindome.net","","","","","pritunl.vindome.net","","false"
 "34.155.141.251","localhost","","","","","localhost","","true"

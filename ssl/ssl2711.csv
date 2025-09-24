@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.0.78.49","shiny-3.services.civis.io","","","","","shiny-3.services.civis.io|*.shiny-3.services.civis.io","","false"
 "52.0.78.51","*.dev-xgs.xylem-cloud.com","","","","","*.dev-xgs.xylem-cloud.com","","false"
 "52.0.78.50","qa.lagunahealth.com","","","","","qa.lagunahealth.com|*.qa.lagunahealth.com","","false"

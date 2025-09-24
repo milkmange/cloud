@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.68.242.130","kps.ms","NTTCom Online Marketing Solutions Corporation","JP","Shinagawa-ku","Tokyo","kps.ms","","false"
 "52.68.242.131","*.aracica.basara.services","","","","","*.aracica.basara.services|aracica.basara.services","","false"
 "52.68.242.146","*.dev.folio-4rap.com","","","","","*.dev.folio-4rap.com","","false"

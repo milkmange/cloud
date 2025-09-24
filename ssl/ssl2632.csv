@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.170.160.101","test-http-18.dub-apps.prod.canary.edgeguard.ec2.aws.dev","","","","","test-http-18.dub-apps.prod.canary.edgeguard.ec2.aws.dev","","false"
 "54.170.160.68","staging.pf-admin.fac3.io","","","","","staging.admin.performanceclimatesystem.com|staging.pf-admin.fac3.io","","false"
 "54.170.160.97","*.eu-west-1.cloudsearch-staging.amazonaws.com","","","","","*.eu-west-1.cloudsearch-staging.amazonaws.com","","false"

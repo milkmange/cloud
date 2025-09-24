@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.170.44.51","leapscores.co","","","","","leapscores.co|www.leapscores.co","","false"
 "54.170.44.70","*.getgifted.com","","","","","*.getgifted.com|getgifted.com","","false"
 "54.170.44.131","intelligentinsurer.com","","","","","intelligentinsurer.com|*.intelligentinsurer.com","","false"

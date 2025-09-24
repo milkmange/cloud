@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.29.126.51","*.aws-0485.cloudfirst.digital","","","","","*.aws-0485.cloudfirst.digital","","false"
 "52.29.126.55","*.lesaffre.app","LESAFFRE ET COMPAGNIE SA","FR","Marcq-en-Barœul","Hauts-de-France","*.lesaffre.app|lesaffre.app|*.lesaffre.digital|lesaffre.digital","","false"
 "52.29.126.70","*.rbfpemj9fo64q.eu-central-1.cs.amazonlightsail.com","","","","","*.rbfpemj9fo64q.eu-central-1.cs.amazonlightsail.com","","false"

@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.68.250.245","kube-apiserver","","","","","f79ecc2489b363d06d4c014d33359b78.gr7.us-west-2.eks.amazonaws.com|ip-172-16-105-143.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.91.194.93|172.16.105.143","false"
 "54.68.250.251","dev.kevinchalmers.com","","","","","dev.kevinchalmers.com|kevinchalmers.com","","false"
 "54.68.251.2","*.hostedrmm.com","ConnectWise, LLC","US","Tampa","Florida","*.hostedrmm.com","","false"
