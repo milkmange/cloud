@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "57.182.199.40","gov23.com","","","","","gov23.com|*.gov23.com","","false"
 "57.182.199.42","denga-net.meti.go.jp","","","","","denga-net.meti.go.jp|*.pegacloud.net","","false"
 "57.182.199.47","*.sfidante.co.jp","","","","","*.sfidante.co.jp|sfidante.co.jp|sfidante.tokyo","","false"

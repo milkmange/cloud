@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.0.138.134","weather.cc.api.here.com","HERE Global B.V.","NL","Eindhoven","Noord-Brabant","weather.cc.api.here.com|weather.api.here.com|subp-weather.api.here.com","","false"
 "52.0.138.136","*.sandbox.pluto.tv","","","","","*.sandbox.pluto.tv","","false"
 "52.0.138.141","*.awrcloud.com","","","","","*.awrcloud.com|awrcloud.com","","false"

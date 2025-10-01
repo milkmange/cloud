@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.231.86.134","stg-coopaichi.yapp-ab.com","","","","","stg-coopaichi.yapp-ab.com","","false"
 "13.231.86.150","*.ok4.plus.nhk.jp","Japan Broadcasting Corporation","JP","Shibuya-ku","Tokyo","*.ok4.plus.nhk.jp","","false"
 "13.231.86.161","suumo-api-fr-external.dev1.sdap.dev-dsg-infra.com","","","","","suumo-api-fr-external.dev1.sdap.dev-dsg-infra.com","","false"

@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.204.82.204","ip-172-31-8-143.ap-south-1.compute.internal","SomeOrganization","--","SomeCity","SomeState","","","true"
 "43.204.82.215","kube-apiserver","","","","","03495873e898d46fd29ceee11a92b4d1.yl4.ap-south-1.eks.amazonaws.com|ip-10-0-62-2.ap-south-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.16.1.171|10.0.62.2","false"
 "43.204.82.221","*.hindustantimes.com","","","","","*.hindustantimes.com|*.livemint.com|*.livehindustan.com|*.desimartini.com","","false"

@@ -16,6 +16,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.247.199.212","*.souschefkit.com","","","","","*.souschefkit.com","","false"
 "34.247.199.216","*.panel-dev.nielsen.com","","","","","*.panel-dev.nielsen.com","","false"
 "34.247.199.219","northstar.myjobnow.com","","","","","northstar.myjobnow.com","","false"
