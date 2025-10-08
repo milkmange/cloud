@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.200.186.133","tjp.co.kr","","","","","tjp.co.kr|*.tjp.co.kr","","false"
 "43.200.186.138","fivespot.io","","","","","fivespot.io|*.fivespot.io","","false"
 "43.200.186.137","vivid-brain.com","","","","","vivid-brain.com|*.vivid-brain.com","","false"

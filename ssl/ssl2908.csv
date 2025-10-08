@@ -24,6 +24,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.98.67.99","gb.neemoocoffee.com","","","","","gb.neemoocoffee.com","","false"
 "34.98.64.153","api.ymca.mentorcliq.com","","","","","api.ymca.mentorcliq.com","","false"
 "34.98.64.217","CloudFlare Origin Certificate","CloudFlare, Inc.","","","","boss-api-dev.falabella.com|boss-api-uat.falabella.com|boss-api.falabella.com|boss-dev.falabella.com|boss-uat.falabella.com|boss.falabella.com","","false"

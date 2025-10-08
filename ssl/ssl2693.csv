@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.38.76.81","cdms.api.mvn.do","","","","","cdms.api.mvn.do|*.cdms.api.mvn.do","","false"
 "3.38.76.78","*.samsungtvplus.com","SAMSUNG ELECTRONICS CO,.LTD","KR","","Gyeonggi-do","*.samsungtvplus.com|samsungtvplus.com","","false"
 "3.38.76.91","kube-apiserver","","","","","a1851c24f5203ef6886070e4016247ee.sk1.ap-northeast-2.eks.amazonaws.com|ip-172-16-107-181.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.169.13.37|172.16.107.181","false"

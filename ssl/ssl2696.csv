@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.39.162.54","quicksight.ap-northeast-2.amazonaws.com","","","","","quicksight.ap-northeast-2.amazonaws.com","","false"
 "3.39.162.68","*.v539vt2hh2lbm.ap-northeast-2.cs.amazonlightsail.com","","","","","*.v539vt2hh2lbm.ap-northeast-2.cs.amazonlightsail.com","","false"
 "3.39.162.57","liveanywhere.me","","","","","liveanywhere.me|*.liveanywhere.me|*.live1month.com","","false"

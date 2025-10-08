@@ -17,6 +17,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.172.37.227","feliperodriguez.com","","","","","feliperodriguez.com|www.feliperodriguez.com","","false"
 "54.172.37.232","vulcano.hotmart.com","","","","","vulcano.hotmart.com|*.vulcano.hotmart.com|hotmart.com|*.hotmart.com","","false"
 "54.172.37.222","*.littlepassports.com","","","","","*.littlepassports.com","","false"

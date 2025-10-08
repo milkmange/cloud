@@ -17,6 +17,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.75.115.1","tst.fuchu-ichigogari.com","","","","","tst.fuchu-ichigogari.com","","false"
 "35.75.115.5","*.kyujinjoho.biz","","","","","*.kyujinjoho.biz|kyujinjoho.biz","","false"
 "35.75.115.9","neecommit.n-newgate.com","","","","","neecommit.n-newgate.com","","false"

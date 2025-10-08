@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.166.101.143","kube-apiserver","","","","","b54422bf9c986b059af45eb71ecb0a4d.gr7.us-east-1.eks.amazonaws.com|ip-172-16-116-150.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.3.14.215|172.16.116.150","false"
 "54.166.101.146","*.mattel163.com","杭州易泰美数字科技有限公司","CN","杭州市","浙江省","*.mattel163.com|mattel163.com","","false"
 "54.166.101.152","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

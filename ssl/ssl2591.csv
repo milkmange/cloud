@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.11.167.33","kube-apiserver","","","","","068233ed239e7c4a777423caf3e48c3b.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-180-82.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.189.31.96|172.16.180.82","false"
 "3.11.167.35","*.osint-prod-1.production.adarga.dev","","","","","*.osint-prod-1.production.adarga.dev|osint-prod-1.production.adarga.dev","","false"
 "3.11.167.37","*.eu-west-2.es.amazonaws.com","","","","","*.eu-west-2.es.amazonaws.com","","false"

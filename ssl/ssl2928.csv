@@ -28,6 +28,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.169.12.160","*.vincanote.xyz","","","","","*.ff14-mstdn.xyz|*.vincanote.xyz|ff14-mstdn.xyz|ifrit.gaia.ff14-mstdn.xyz|vincanote.xyz","","false"
 "3.169.12.74","*.auth.airmiles.ca","","","","","*.auth.airmiles.ca|auth.airmiles.ca","","false"
 "3.169.12.143","twitchcdn.net","","","","","twitchcdn.net|*.twitchcdn.net","","false"

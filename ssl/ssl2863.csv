@@ -17,6 +17,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.180.200.160","*.6dlshhs3u5bju.ap-northeast-1.cs.amazonlightsail.com","","","","","*.6dlshhs3u5bju.ap-northeast-1.cs.amazonlightsail.com","","false"
 "18.180.200.163","*.nexon.com","NEXON Korea Corporation","KR","Seongnam-si","Gyeonggi-do","*.nexon.com|nexon.com","","false"
 "18.180.200.164","*.teamspirit.co.jp","","","","","*.teamspirit.co.jp","","false"

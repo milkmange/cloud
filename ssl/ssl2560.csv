@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.18.142.128","kube-apiserver","","","","","47cc05d032c0522c3177726093a340d6.sk1.us-east-2.eks.amazonaws.com|ip-172-16-54-168.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.66.6.219|172.16.54.168","false"
 "3.18.142.132","*.stag.eshipglobal.com","","","","","*.stag.eshipglobal.com","","false"
 "3.18.142.134","autoqa-admin-origin.www.warnerbros.ch","","","","","autoqa-admin-origin.www.warnerbros.ch","","false"
