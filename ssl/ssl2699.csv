@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.93.251.20","elk-preview.sbb.safetytaxfree.com","","","","","elk-preview.sbb.safetytaxfree.com","","false"
 "54.93.251.54","data-tracker.mobsuccess.com","","","","","data-tracker.mobsuccess.com","","false"
 "54.93.251.52","huacas-peru.com","","","","","huacas-peru.com|www.huacas-peru.com","","false"

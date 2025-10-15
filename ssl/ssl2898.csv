@@ -25,6 +25,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.94.111.16","34.94.111.16","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.94.111.16|10.52.0.1|35.235.94.253|35.236.39.219|34.94.202.137|10.50.16.2","false"
 "34.94.111.0","34.94.111.0","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.94.111.0|34.118.224.1|172.16.0.34|35.236.103.63","false"
 "34.94.111.20","*.familyzone.com","Linewize Australia","AU","Perth","Western Australia","*.familyzone.com|familyzone.com|stg.familyzone.com|*.stg.familyzone.com","","false"

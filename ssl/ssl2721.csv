@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.20.22.29","*.testnet-private.succinct.xyz","","","","","*.testnet-private.succinct.xyz","","false"
 "3.20.22.54","dashboard.xperience-u.com","","","","","dashboard.xperience-u.com","","false"
 "3.20.22.51","*.8n79cq3or5jb4.us-east-2.cs.amazonlightsail.com","","","","","*.8n79cq3or5jb4.us-east-2.cs.amazonlightsail.com","","false"

@@ -25,6 +25,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.95.79.222","*.dev.dms.creditkarma.pro","Credit Karma LLC","US","Oakland","California","*.dev.dms.creditkarma.pro","","false"
 "34.95.79.129","redmine.kineca.jp","","","","","redmine.kineca.jp","","false"
 "34.95.79.131","apsm-web-saas.sit.aj-ex.com","","","","","apsm-web-saas.sit.aj-ex.com","","false"

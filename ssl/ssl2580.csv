@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "63.176.236.13","wayfor.ai","","","","","wayfor.ai","","false"
 "63.176.236.25","kube-apiserver","","","","","cd9f3730d94e35dc65d0eac37b9a583a.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-102-60.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.4.229.241|172.16.102.60","false"
 "63.176.236.78","dns.kremzein.com","","","","","dns.kremzein.com","","false"

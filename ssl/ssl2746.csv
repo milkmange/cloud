@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.192.66.173","*.app.cokeon-aws.info","","","","","*.app.cokeon-aws.info","","false"
 "52.192.66.167","kubernetes","kubernetes","","","","localhost|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local|api.dcm-pocpack-dev.vo0d.p3.openshiftapps.com|api.dcm-pocpack-dev.hypershift.local","127.0.0.1|::1|172.30.0.1|172.20.0.1","false"
 "52.192.66.172","*.gas-appliance-manual-download-system.com","","","","","*.gas-appliance-manual-download-system.com","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.18.1.112","app-qa.sigah2.salutareapps.com","","","","","app-qa.sigah2.salutareapps.com","","false"
 "3.18.1.120","kinesisdataanalyticsextensions.us-east-2.amazonaws.com","","","","","*.kinesisdataanalyticsextensions.us-east-2.amazonaws.com|kinesisdataanalyticsextensions.us-east-2.amazonaws.com","","false"
 "3.18.1.116","kube-apiserver","","","","","0079559f0c9eb6fe1ebd32741819ee20.gr7.us-east-2.eks.amazonaws.com|ip-172-16-170-99.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.6.81.26|172.16.170.99","false"

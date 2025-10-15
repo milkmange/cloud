@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.19.179.245","*.iot.us-east-2.amazonaws.com","","","","","*.iot.us-east-2.amazonaws.com|iot.us-east-2.amazonaws.com","","false"
 "3.19.179.248","kube-apiserver","","","","","385ab42b5b3a09f817fb957319d7a337.gr7.us-east-2.eks.amazonaws.com|ip-172-16-100-56.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.2.55.164|172.16.100.56","false"
 "3.19.180.17","kube-apiserver","","","","","ed5a1b15b88a987e96ac791de570b3f8.gr7.us-east-2.eks.amazonaws.com|ip-172-16-46-112.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.10.26.2|172.16.46.112","false"

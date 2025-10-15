@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.44.124.152","api.sofiatechnology.ai","","","","","api.sofiatechnology.ai","","false"
 "52.44.124.161","*.na-gamma.testaccountcreationservice.advertising.amazon.dev","","","","","*.na-gamma.testaccountcreationservice.advertising.amazon.dev|nlb.na-gamma.testaccountcreationservice.advertising.amazon.dev|alb.na-gamma.testaccountcreationservice.advertising.amazon.dev","","false"
 "52.44.124.159","*.tms-orbcomm.com","","","","","*.tms-orbcomm.com|tms-orbcomm.com","","false"

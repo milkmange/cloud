@@ -18,6 +18,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.178.90.6","kube-apiserver","","","","","7c43a07f36ec362c8c696bf8fbf2f936.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-46-252.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.1.116|172.16.46.252","false"
 "35.178.90.8","planschange.com","","","","","planschange.com|www.planschange.com","","false"
 "35.178.90.13","foam.pblaonline.scot","","","","","foam.pblaonline.scot","","false"

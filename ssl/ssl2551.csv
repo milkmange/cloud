@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.158.217.83","*.voximplant.com","","","","","*.voximplant.com","","false"
 "35.158.217.81","*.ipi.eu1.dmastage.inforcloudsuite.com","","","","","*.ipi.eu1.dmastage.inforcloudsuite.com","","false"
 "35.158.217.84","kube-apiserver","","","","","d95985f05814f26514f0ecc0eb6ea0b0.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-125-192.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.101.76.251|172.16.125.192","false"

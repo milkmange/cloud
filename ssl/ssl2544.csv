@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.157.70.10","*.euc1.internal-enclave.kamino-stg.platform.navify.com","","","","","*.euc1.internal-enclave.kamino-stg.platform.navify.com","","false"
 "35.157.70.17","aws.limtel.pl","","","","","aws.limtel.pl","","false"
 "35.157.70.21","*.bankxs.eu","","","","","*.bankxs.eu","","false"
