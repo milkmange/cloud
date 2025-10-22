@@ -19,6 +19,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.138.177.164","*.iukmu6tmdhet0.ap-southeast-1.cs.lightsail.ec2.aws.dev","","","","","*.iukmu6tmdhet0.ap-southeast-1.cs.lightsail.ec2.aws.dev","","false"
 "18.138.177.168","*.crossfund.app","","","","","*.crossfund.app","","false"
 "18.138.177.174","mcstaging2.central.co.th","Magento Cloud","FR","","","","","true"

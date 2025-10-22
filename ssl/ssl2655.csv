@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.57.219.223","*.p2way.fyi","","","","","*.p2way.fyi|p2way.fyi","","false"
 "52.57.219.231","e2e-test.platform.evidentiq.com","","","","","e2e-test.platform.evidentiq.com|*.e2e-test.platform.evidentiq.com","","false"
 "52.57.219.237","dev.emea.sbx-connect.com","","","","","dev.emea.sbx-connect.com|*.dev.emea.sbx-connect.com","","false"

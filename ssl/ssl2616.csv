@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.166.20.113","*.adp-cloud.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.adp-cloud.splunkcloud.com|adp-cloud.splunkcloud.com|http-inputs-adp-cloud.splunkcloud.com|*.http-inputs-adp-cloud.splunkcloud.com|akamai-inputs-adp-cloud.splunkcloud.com|*.akamai-inputs-adp-cloud.splunkcloud.com|http-inputs-ack-adp-cloud.splunkcloud.com|*.http-inputs-ack-adp-cloud.splunkcloud.com|http-inputs-firehose-adp-cloud.splunkcloud.com|*.http-inputs-firehose-adp-cloud.splunkcloud.com|*.pvt.adp-cloud.splunkcloud.com|pvt.adp-cloud.splunkcloud.com","","false"
 "54.166.20.114","*.regodit.ai","","","","","*.regodit.ai","","false"
 "54.166.20.120","*.cccis.com","CCC Intelligent Solutions Inc","US","Chicago","Illinois","*.cccis.com|cccis.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.72.170.78","www.glocaltimes.jp","","","","","www.glocaltimes.jp|glocaltimes.jp","","false"
 "35.72.170.80","*.labeling.ap-northeast-1.sagemaker.aws","","","","","*.labeling.ap-northeast-1.sagemaker.aws","","false"
 "35.72.170.85","*.ub1t.com","","","","","*.ub1t.com","","false"

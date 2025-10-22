@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.21.243.231","*.rtss.io","","","","","*.rtss.io","","false"
 "3.21.243.250","websocket-management.stg01.amwell.systems","","","","","websocket-management.stg01.amwell.systems|*.websocket-management.stg01.amwell.systems","","false"
 "3.21.243.254","kube-apiserver","","","","","20c78783199fe610bffda2c3d1585819.gr7.us-east-2.eks.amazonaws.com|ip-10-0-178-48.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.20.3.245|10.0.178.48","false"

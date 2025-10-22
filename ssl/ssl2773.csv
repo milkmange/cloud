@@ -18,6 +18,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "75.101.159.172","backend.alliedgapps.com","","","","","backend.alliedgapps.com|ats.backend.alliedgapps.com|backoffice.backend.alliedgapps.com|vacations.backend.alliedgapps.com|awsoperations.backend.alliedgapps.com|catalogs.backend.alliedgapps.com|finantial.backend.alliedgapps.com|operations.backend.alliedgapps.com","","false"
 "75.101.159.182","*.ifixit.com","","","","","*.ifixit.com|ifixit.com","","false"
 "75.101.159.181","new.papajohns.bs","","","","","new.papajohns.bs","","false"

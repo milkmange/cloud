@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.254.46.224","kube-apiserver","","","","","8199a6f2271703ea736275ce1f738639.gr7.eu-west-1.eks.amazonaws.com|ip-10-0-56-37.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.29.253.213|10.0.56.37","false"
 "3.254.46.236","wp-site-blue.non-prod.rwrd058.rewardcloud.net","","","","","wp-site-blue.non-prod.rwrd058.rewardcloud.net|rewardinsight.com|dev.rewardinsight.com|www.rewardinsight.com|test.rewardinsight.com","","false"
 "3.254.47.35","wowzachild.netgear.com","Netgear","US","San Jose","California","","","false"
