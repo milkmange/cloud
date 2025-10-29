@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.45.230.45","kube-apiserver","","","","","07cf6ad6ccdf1d6f0c07d2663d5a0bab.gr7.us-east-1.eks.amazonaws.com|ip-172-16-39-131.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.109.226|172.16.39.131","false"
 "52.45.230.47","*.colleague.elluciancloud.com","Ellucian Company LLC","US","Reston","Virginia","*.colleague.elluciancloud.com","","false"
 "52.45.230.48","gohubbs.com","","","","","gohubbs.com|*.gohubbs.com|www.gohubbs.com","","false"

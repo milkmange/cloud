@@ -19,6 +19,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.252.10.212","*.switchlink.com.au","Switchlink Payment Technology Pty Ltd","AU","Roseville","New South Wales","*.switchlink.com.au|switchlink.com.au","","false"
 "54.252.10.172","*.awn.net","","","","","*.awn.net|*.dysonjones.com.au","","false"
 "54.252.10.99","54.252.10.99","","","","","54.252.10.99","","false"

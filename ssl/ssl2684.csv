@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.213.37.208","kube-apiserver","","","","","1d0f1b04bc5d681bba16367bc82f01af.joneid.us-west-2.dev.holograph.space|ip-10-0-175-19.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.254.112|10.0.175.19","false"
 "54.213.37.214","abstractsonline.com","","","","","abstractsonline.com|*.ctimeetingtech.com|abstractmanagement.com|whencorruptionwasking.com|*.whencorruptionwasking.com|ctimeetingtech.com|*.abstractmanagement.com|*.abstractsonline.com","","false"
 "54.213.37.216","*.gamma.allocation.sye.amazon.dev","","","","","*.gamma.allocation.sye.amazon.dev|*.pdx.gamma.allocation.sye.amazon.dev","","false"

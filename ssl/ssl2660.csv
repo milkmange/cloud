@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.201.163.118","kube-apiserver","","","","","2a1bc3d64633fb927b589e5ec55e9e49.yl4.ap-northeast-2.eks.amazonaws.com|ip-172-16-98-154.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.196.86|172.16.98.154","false"
 "43.201.163.120","*.smilebiz.co.kr","SMARTRO Co.,Ltd.","KR","Jung-gu","Seoul","*.smilebiz.co.kr|smilebiz.co.kr","","false"
 "43.201.163.112","*.jmbh4bprf94i6.ap-northeast-2.cs.lightsail.ec2.aws.dev","","","","","*.jmbh4bprf94i6.ap-northeast-2.cs.lightsail.ec2.aws.dev","","false"

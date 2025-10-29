@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "63.176.87.29","kube-apiserver","","","","","4fb05e58da477602c6b8ab1165dc0321.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-116-132.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.20.5.82|172.16.116.132","false"
 "63.176.87.31","alexanderbuerkle-test.lobster-cloud.com","","","","","alexanderbuerkle-test.lobster-cloud.com","","false"
 "63.176.87.112","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

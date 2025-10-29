@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.159.44.54","*.eu-central-1.es.amazonaws.com","","","","","*.eu-central-1.es.amazonaws.com","","false"
 "35.159.44.64","*.dev.videocation.tech","","","","","*.dev.videocation.tech","","false"
 "35.159.44.69","*.cognizantorderserv.com","","","","","*.cognizantorderserv.com","","false"

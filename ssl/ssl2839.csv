@@ -20,6 +20,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.172.144.165","kube-apiserver","","","","","837e7b9673a868b3102d5bfa887278dc.gr7.us-east-1.eks.amazonaws.com|ip-172-16-118-18.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.5.99|172.16.118.18","false"
 "54.172.144.178","*.persistent.com","","","","","*.persistent.com|persistent.com","","false"
 "54.172.144.179","store.punchsoftware.com","store.punchsoftware.com","US","","","store.punchsoftware.com","","false"

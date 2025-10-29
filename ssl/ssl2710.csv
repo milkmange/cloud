@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.0.13.98","recebee.com.br","","","","","recebee.com.br|*.recebee.com.br","","false"
 "52.0.13.90","*.energyforce.net","Software Solutions Integrated, LLC","US","Shelbyville","Illinois","*.energyforce.net|energyforce.net","","false"
 "52.0.13.107","","Internet Widgits Pty Ltd","US","","Some-State","","","true"

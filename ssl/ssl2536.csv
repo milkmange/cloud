@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.10.147.242","kube-apiserver","","","","","5ccdb676d39edcc90639f3046e40c93b.gr7.eu-west-2.eks.amazonaws.com|ip-10-0-127-71.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.16.3.171|10.0.127.71","false"
 "3.10.147.252","www.impintegrationfrontend.dayta.co.uk","","","","","www.impintegrationfrontend.dayta.co.uk|impintegrationfrontend.dayta.co.uk","","false"
 "3.10.148.4","extendra.io","","","","","extendra.io|www.extendra.io","","false"

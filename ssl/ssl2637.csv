@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.81.132.198","kube-apiserver","","","","","cd077abd61be536428f36cbff6ddd5c8.gr7.cn-north-1.eks.amazonaws.com.cn|ip-10-0-164-87.cn-north-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.37.41|10.0.164.87","false"
 "52.81.132.174","*.samsungiots.cn","Samsung Electronics","KR","","","*.samsungiots.cn","","false"
 "52.81.132.90","uat1.cfs-china.com","","","","","uat1.cfs-china.com","","false"

@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.245.254.33","kube-apiserver","","","","","33f3e6913149c0d794e043e939f098a5.gr7.beta.us-west-2.clusters.wesley.amazonaws.com|ip-10-0-105-235.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.245.78|10.0.105.235","false"
 "44.245.254.38","kube-apiserver","","","","","6f53c3c3c54eccf020f661f50a8247b7.yl4.us-west-2.eks.amazonaws.com|ip-172-16-103-38.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.164.80|172.16.103.38","false"
 "44.245.254.61","kube-apiserver","","","","","57f196d87f56372be61bdaf6b1a00a2e.gr7.us-west-2.eks.amazonaws.com|ip-172-16-127-28.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.168.184.210|172.16.127.28","false"
