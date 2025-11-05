@@ -21,6 +21,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.74.102.183","h2o-retailing.net","","","","","h2o-retailing.net|*.h2o-retailing.net","","false"
 "35.74.102.184","miraikenkyujo.com","","","","","miraikenkyujo.com|*.miraikenkyujo.com","","false"
 "35.74.102.190","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

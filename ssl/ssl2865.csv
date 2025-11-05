@@ -21,6 +21,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.181.124.235","*.docstaipm.com","","","","","*.docstaipm.com","","false"
 "18.181.124.248","ad-analytics.net","","","","","ad-analytics.net|*.ad-analytics.net","","false"
 "18.181.125.4","enhanced-ac.com","","","","","enhanced-ac.com","","false"

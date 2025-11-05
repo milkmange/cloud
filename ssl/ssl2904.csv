@@ -28,6 +28,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.95.105.239","api-ff-gcp-lb.fairprice.com.sg","","","","","api-ff-gcp-lb.fairprice.com.sg","","false"
 "34.95.105.210","vest.app.visualize.mobi","","","","","vest.app.visualize.mobi","","false"
 "34.95.105.2","i.jzckg3.com","","","","","i.jzckg3.com","","false"

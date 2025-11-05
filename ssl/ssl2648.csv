@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.69.64.192","*.jp.misumi-ec.com","","","","","*.jp.misumi-ec.com","","false"
 "52.69.64.200","*.app.cokeon-aws.info","","","","","*.app.cokeon-aws.info","","false"
 "52.69.64.206","barks.jp","","","","","barks.jp|*.barks.jp","","false"

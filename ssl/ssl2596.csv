@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.168.215.29","kube-apiserver","","","","","6404e4f6387f156d051aacad411f492d.gr7.us-east-1.eks.amazonaws.com|ip-10-0-40-197.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.23.0.1|192.168.199.77|10.0.40.197","false"
 "35.168.215.32","*.g.alchemy.com","","","","","*.g.alchemy.com","","false"
 "35.168.215.31","*.potentiamed.com","","","","","*.potentiamed.com|potentiamed.com","","false"

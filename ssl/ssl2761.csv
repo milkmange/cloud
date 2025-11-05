@@ -19,6 +19,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.253.253.69","agguard.entsia.io","","","","","agguard.entsia.io|agguard.ed.entsia.io|agguard.st.entsia.io|agguard.rc.entsia.io|agguard.uat.entsia.io|*.agguard.entsia.io|agguard.pst.entsia.io","","false"
 "54.253.253.70","example.com","","","","","example.com|www.example.com","127.0.0.1","true"
 "54.253.253.77","54.253.253.77","","","","","54.253.253.77","","false"

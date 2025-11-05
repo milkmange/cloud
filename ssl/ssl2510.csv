@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.248.10.7","plugin.prod.risk-mgmt-service.in-pay-risk.payments.amazon.dev","Amazon.com Inc.","US","Seattle","Washington","plugin.prod.risk-mgmt-service.in-pay-risk.payments.amazon.dev|corp.plugin.prod.risk-mgmt-service.in-pay-risk.payments.amazon.dev|prod.ca.inpayriskrms.lra.amazon|prod.ca.corp.inpayriskrms.lra.amazon","","false"
 "3.248.10.140","web.reporting1.hrm.stag.visma.net","","","","","web.reporting1.hrm.stag.visma.net|*.web.reporting1.hrm.stag.visma.net","","false"
 "3.248.10.30","kube-apiserver","","","","","e163ebee07d37b445f69dda4c30735d0.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-123-227.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.177.254|172.16.123.227","false"

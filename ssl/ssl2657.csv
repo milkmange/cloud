@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.200.98.190","kube-apiserver","","","","","b355090ba76b481b74c70bab9659a795.gr7.ap-northeast-2.eks.amazonaws.com|ip-172-16-61-188.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.241.123.147|172.16.61.188","false"
 "43.200.98.177","*.map-care.com","","","","","*.map-care.com|map-care.com","","false"
 "43.200.98.181","*.its-newid.net","","","","","*.its-newid.net|its-newid.net","","false"

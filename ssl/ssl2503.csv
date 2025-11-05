@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.255.12.43","kube-apiserver","","","","","141152f081dab157d7ab6a2b8b1ccbb8.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-187-244.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.103.98|172.16.187.244","false"
 "3.255.12.54","kqq-adan-prd-ext-frt-01.prd-kqq.web-enedis.fr","","","","","kqq-adan-prd-ext-frt-01.prd-kqq.web-enedis.fr","","false"
 "3.255.12.90","kube-apiserver","","","","","4b2b330d3a0c007f993a51c6fe589ccd.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-121-86.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.55.133|172.16.121.86","false"

@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.68.192.154","*.execute-api.us-west-2.amazonaws.com","","","","","*.execute-api.us-west-2.amazonaws.com","","false"
 "54.68.192.159","us-west-2.provisioning.loupe.aws.dev","","","","","us-west-2.provisioning.loupe.aws.dev","","false"
 "54.68.192.163","support.shp.mcafee.com","","","","","support.shp.mcafee.com|dashproxy-beta.support.shp.mcafee.com|dash-beta.support.shp.mcafee.com","","false"

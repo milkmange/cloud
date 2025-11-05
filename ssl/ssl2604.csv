@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.171.1.187","*.us1.kt1.io","","","","","*.us1.kt1.io","","false"
 "35.171.1.191","*.goodville-uat.dxc-ins.com","","","","","*.goodville-uat.dxc-ins.com|goodville-uat.dxc-ins.com","","false"
 "35.171.1.205","cms-staging.cargocartop.com","","","","","cms-staging.cargocartop.com","","false"

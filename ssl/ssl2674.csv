@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.69.191.108","managed-tls-iis-c-uw2-8cdd6ca9e54a.cloudos.autodesk.com","Autodesk, Inc.","US","San Francisco","California","managed-tls-iis-c-uw2-8cdd6ca9e54a.cloudos.autodesk.com|extraction.iis-c-uw2.cloudos.autodesk.com|extraction.iis-dev.autodesk.com","","false"
 "54.69.191.119","*.dialogus.com.mx","DIALOGUS PROCESOS S.A.P.I. de C.V.","MX","Ciudad de Mexico","","*.dialogus.com.mx|dialogus.com.mx","","false"
 "54.69.191.120","ds-api-dev2-ecs.public.dev.krkn-game.com","","","","","ds-api-dev2-ecs.public.dev.krkn-game.com","","false"

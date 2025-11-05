@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.157.215.121","kube-apiserver","","","","","0e245d1e608fcbb0fb1761a4ab148ce5.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-177-127.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.30.252.216|172.16.177.127","false"
 "35.157.215.139","int-edb2.haufe.io","","","","","int-edb2.haufe.io","","false"
 "35.157.215.140","*.dm.api.gtcint.lucanet.cloud","","","","","*.dm.api.gtcint.lucanet.cloud","","false"

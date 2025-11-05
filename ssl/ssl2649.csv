@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.69.141.19","*.matabee.com","JM Corporation","JP","CHIYODA","TOKYO","*.matabee.com|matabee.com","","false"
 "52.69.141.28","*.company.works-hi.com","WORKS HUMAN INTELLIGENCE CO., LTD.","JP","Minato-ku","Tokyo","*.company.works-hi.com|company.works-hi.com","","false"
 "52.69.141.29","52.69.141.29","Default Company Ltd","JP","Default City","","","","true"
