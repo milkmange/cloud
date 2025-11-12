@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.170.178.190","main-focused-goldwasser-xoe6c76.cribl-staging.cloud","","","","","main-focused-goldwasser-xoe6c76.cribl-staging.cloud|default.main.focused-goldwasser-xoe6c76.cribl-staging.cloud|in.main-default-focused-goldwasser-xoe6c76.cribl-staging.cloud|*.main.focused-goldwasser-xoe6c76.cribl-staging.cloud","","false"
 "35.170.178.193","*.qat-phynd.com","","","","","*.qat-phynd.com","","false"
 "35.170.178.196","kube-apiserver","","","","","f2e93d22a06040752a275a629911af4c.gr7.us-east-1.eks.amazonaws.com|ip-172-16-162-61.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.39.226.84|172.16.162.61","false"

@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.222.123.110","kube-apiserver","","","","","80e77d6f8e1e41c5c801242735e4a52d.gr7.us-gov-west-1.eks.amazonaws.com|ip-10-0-42-134.us-gov-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.45.2|10.0.42.134","false"
 "52.222.123.95","kube-apiserver","","","","","b4d3221473f3d585fdf9f4f03ae96b65.sk1.us-gov-west-1.eks.amazonaws.com|ip-10-0-177-106.us-gov-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.122.122|10.0.177.106","false"
 "52.222.123.106","*.carbyneapi.com","","","","","*.carbyneapi.com|carbyneapi.com","","false"

@@ -36,6 +36,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.29.105.53","34.29.105.53","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.29.105.53|34.118.224.1|10.128.0.106|34.57.147.224","false"
 "34.29.105.67","34.170.155.114","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.170.155.114|10.8.128.1|35.222.254.224|34.29.105.67|34.67.24.117|10.128.0.2","false"
 "34.29.105.33","*.wpengine.com","","","","","*.wpengine.com|wpengine.com","","false"

@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.158.19.216","eu-central-1.qa.starshipcloud.com","","","","","eu-central-1.qa.starshipcloud.com|qaconnect.starshipcloud.com|*.eu-central-1.qa.starshipcloud.com|eu-central-1.qa.workflows.starshipcloud.com|eu-central-1.qa.sustainability.starshipcloud.com","","false"
 "35.158.19.217","stg.hipal-app.com","","","","","stg.hipal-app.com|*.stg.hipal-app.com","","false"
 "35.158.19.219","apf-infinity-poc-api.apis-stage02.autoproff.com","","","","","apf-infinity-poc-api.apis-stage02.autoproff.com","","false"

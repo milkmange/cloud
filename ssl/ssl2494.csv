@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.175.90.208","api.us7.app.wiz.io","","","","","api.us7.app.wiz.io","","false"
 "35.175.90.211","bemscases.ciscospaces.io","Cisco Systems Inc.","US","San Jose","California","bemscases.ciscospaces.io","","false"
 "35.175.90.230","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"

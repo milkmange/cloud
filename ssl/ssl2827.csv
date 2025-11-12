@@ -22,6 +22,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.243.58.77","*.iot.eu-west-1.amazonaws.com","","","","","iot.eu-west-1.amazonaws.com|*.iot.eu-west-1.amazonaws.com","","false"
 "34.243.58.85","skolen.eiendomsmeglerskolen.no","","","","","skolen.eiendomsmeglerskolen.no","","false"
 "34.243.58.95","*.prod2.command.verkada.com","","","","","*.prod2.command.verkada.com|*.prod2.verkada.com|*.prod2.vcamera.net|*.prod2.control.verkada.com|prod2.command.verkada.com","","false"

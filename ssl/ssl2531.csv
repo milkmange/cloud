@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.8.245.227","kube-apiserver","","","","","618e164c169fc67cf30e756c9e1a1eab.yl4.eu-west-2.eks.amazonaws.com|ip-10-0-63-149.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|10.0.63.149","false"
 "3.8.245.218","api.lhr54-1.prod.pulsar.elb.aws.a2z.com","","","","","api.lhr54-1.prod.pulsar.elb.aws.a2z.com|api.lhr54.prod.pulsar.elb.aws.a2z.com","","false"
 "3.8.245.233","totara.upg.mediapharm.aws.wawmanaged.uk","","","","","totara.upg.mediapharm.aws.wawmanaged.uk","","false"

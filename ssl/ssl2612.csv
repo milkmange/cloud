@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.164.195.192","*.supabase.co","","","","","*.supabase.co|*.supabase.in","","false"
 "54.164.195.195","*.api.intakerocket.com","","","","","*.api.intakerocket.com","","false"
 "54.164.195.205","*.deere.com","","","","","*.deere.com","","false"

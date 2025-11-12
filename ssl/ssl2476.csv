@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.169.185.2","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"
 "35.169.185.4","*.gomb8rp86plcc.us-east-1.cs.amazonlightsail.com","","","","","*.gomb8rp86plcc.us-east-1.cs.amazonlightsail.com","","false"
 "35.169.185.5","*.stg.spectrum.net","","","","","*.stg.spectrum.net|*.stage-spectrum.net|*.stage-spectrumbusiness.net|*.stg.spectrumbusiness.net","","false"

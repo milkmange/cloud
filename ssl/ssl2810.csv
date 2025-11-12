@@ -22,6 +22,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.139.249.54","lr.sg-prod.aeroboost.edgecxn.amazon.dev","","","","","lr.sg-prod.aeroboost.edgecxn.amazon.dev","","false"
 "18.139.249.65","kube-apiserver","","","","","69ac78c7f4f9eff68514c1b9df52f432.gr7.ap-southeast-1.eks.amazonaws.com|ip-172-16-43-138.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.47.101.63|172.16.43.138","false"
 "18.139.249.81","*.onechat.net","NCS Pte Ltd","SG","Singapore","Singapore","*.onechat.net|onechat.net","","false"

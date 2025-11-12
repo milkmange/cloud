@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.171.92.215","*.customer.cloud.microstrategy.com","MicroStrategy Incorporated","US","Tysons Corner","Virginia","*.customer.cloud.microstrategy.com|customer.cloud.microstrategy.com","","false"
 "35.171.92.217","drive.aslo.us","","","","","drive.aslo.us|office.aslo.us|www.drive.aslo.us","","false"
 "35.171.92.218","*.cebroker.com","","","","","*.cebroker.com|cebroker.com","","false"

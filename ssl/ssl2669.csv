@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.68.130.23","*.ehrtutor.com","","","","","*.ehrtutor.com|ehrtutor.com","","false"
 "54.68.130.27","*.ketterastrategies.com","","","","","*.ketterastrategies.com","","false"
 "54.68.130.29","app.turnsmith.com","","","","","app.turnsmith.com|www.app.turnsmith.com","","false"

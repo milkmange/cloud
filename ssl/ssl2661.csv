@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.201.227.77","msa-api-dev-env.pawdlers.com","","","","","msa-api-dev-env.pawdlers.com","","false"
 "43.201.227.80","*.staging.qierbao.com","","","","","*.staging.qierbao.com","","false"
 "43.201.227.83","*.ap-northeast-2.es.amazonaws.com","","","","","*.ap-northeast-2.es.amazonaws.com","","false"
