@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.173.29.252","kube-apiserver","","","","","a9cb92ccbeee657d4dd4441e69ad2193.gr7.us-east-1.eks.amazonaws.com|ip-172-16-173-50.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.2.85.203|172.16.173.50","false"
 "35.173.29.255","udab.abstraktmg.com","","","","","udab.abstraktmg.com|*.stage.udab.abstraktmg.com|*.udab.abstraktmg.com","","false"
 "35.173.30.0","sytex.io","","","","","sytex.io|*.sytex.io","","false"

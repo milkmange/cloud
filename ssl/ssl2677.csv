@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.70.163.215","msestero.developer.mediatailor.aws.a2z.com","","","","","msestero.developer.mediatailor.aws.a2z.com|*.msestero.developer.mediatailor.aws.a2z.com","","false"
 "54.70.163.214","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-01.us-west-2.es.amazonaws.com","","false"
 "54.70.163.216","*.c0.623670696341.developer.pinwheel.aws.dev","","","","","*.c0.623670696341.developer.pinwheel.aws.dev","","false"

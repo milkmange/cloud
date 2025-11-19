@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.75.191.248","*.stg.mx1.maas-portal.com","","","","","*.stg.mx1.maas-portal.com|stg.mx1.maas-portal.com","","false"
 "35.75.192.1","win.api.stg.lottie.mediba.jp","","","","","win.api.stg.lottie.mediba.jp|*.win.api.stg.lottie.mediba.jp","","false"
 "35.75.192.6","app.nissay-plus.co.jp","","","","","app.nissay-plus.co.jp","","false"

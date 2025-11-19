@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.157.124.57","eu1.portal.api.nasuni.com","","","","","eu1.portal.api.nasuni.com","","false"
 "35.157.124.62","*.sosafe.de","","","","","*.sosafe.de|*.sosafe-prod-internal.de","","false"
 "35.157.124.63","public.dev.oc.censhare.com","","","","","public.dev.oc.censhare.com|*.std-portal.censhare.com|*.oc.censhare.com|*.dev.oc.censhare.com","","false"

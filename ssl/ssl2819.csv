@@ -23,6 +23,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.35.237.160","store.develon-ce.com","HD HYUNDAI INFRACORE CO., LTD","KR","","Incheon","store.develon-ce.com|store-dev.develon-ce.com","","false"
 "3.35.237.168","*.cherrypot.net","","","","","*.cherrypot.net","","false"
 "3.35.237.170","*.whofa.shop","","","","","*.whofa.shop|whofa.shop","","false"

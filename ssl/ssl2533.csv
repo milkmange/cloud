@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.9.145.196","CloudFlare Origin Certificate","CloudFlare, Inc.","","","","*.kyra.com|kyra.com","","false"
 "3.9.145.194","kube-apiserver","","","","","d167d4bfeaee19a065bce396a2a1922f.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-109-168.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.212.86|172.16.109.168","false"
 "3.9.145.213","dev2.cyccommsdev.uk","","","","","dev2.cyccommsdev.uk","","false"

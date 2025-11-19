@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.73.247.0","prod.nrt.api.inventory-controllership.aft.amazon.dev","Amazon.com Inc.","US","Seattle","Washington","prod.nrt.api.inventory-controllership.aft.amazon.dev|prod.pdx.crossregion.nrt.api.inventory-controllership.aft.amazon.dev","","false"
 "35.73.247.2","www.izzetmtgnews.com","","","","","www.izzetmtgnews.com","","false"
 "35.73.247.15","*.dbgbhcameratool.channel.or.jp","","","","","*.dbgbhcameratool.channel.or.jp|dbgbhcameratool.channel.or.jp","","false"

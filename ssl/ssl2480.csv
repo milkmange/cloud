@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.170.229.62","awas.cell-2.prod.us-east-1.prod.connect.aws.a2z.com","","","","","awas.cell-2.prod.us-east-1.prod.connect.aws.a2z.com","","false"
 "35.170.229.64","kube-apiserver","","","","","52ea34e529ef390513e0665328d90218.gr7.us-east-1.eks.amazonaws.com|ip-172-16-32-230.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.7|172.16.32.230","false"
 "35.170.229.73","*.remotelock.com","","","","","*.remotelock.com|*.lockstate.com|*.sso.remotelock.com|*.devicewebmanager.com","","false"

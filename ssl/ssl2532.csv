@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.9.68.213","xsoar.test1.1e15659cd15ea33.euwe2.prd-plat.aws.bt.com","","","","","xsoar.test1.1e15659cd15ea33.euwe2.prd-plat.aws.bt.com","","false"
 "3.9.68.202","ops1.meritgraph.com","","","","","ops1.meritgraph.com","","false"
 "3.9.68.206","dlt4all.mooc.unic.ac.cy","University of Nicosia","CY","","Lefkosia","dlt4all.mooc.unic.ac.cy|www.dlt4all.mooc.unic.ac.cy","","false"

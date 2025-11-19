@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.202.71.0","lookout-service.ap-northeast-2.amazonaws.com","Amazon.com Inc.","US","Seattle","Washington","lookout-service.ap-northeast-2.amazonaws.com","","false"
 "43.202.70.247","ec2-trogdor-54.ap-northeast-2.amazonaws.com","Amazon.com Inc.","US","Seattle","Washington","ec2-trogdor-54.ap-northeast-2.amazonaws.com","","false"
 "43.202.70.238","tadp-icn52-cell1.ap-northeast-2.amazonaws.com","","","","","tadp-icn52-cell1.ap-northeast-2.amazonaws.com|tadp-az52-cell1.ap-northeast-2.amazonaws.com|tadp-cell1.ap-northeast-2.amazonaws.com|tadp-preprod-cell1.ap-northeast-2.amazonaws.com|tadp.ap-northeast-2.amazonaws.com|tadp-preprod.ap-northeast-2.amazonaws.com|*.tadp-cell.ap-northeast-2.amazonaws.com","","false"

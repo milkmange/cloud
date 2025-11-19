@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.16.227.0","learn-music-free.com","","","","","learn-music-free.com","","false"
 "3.16.226.93","lojamodelo.telesapiens.com.br","","","","","lojamodelo.telesapiens.com.br","","false"
 "3.16.227.6","*.nabstract.io","","","","","*.nabstract.io","","false"

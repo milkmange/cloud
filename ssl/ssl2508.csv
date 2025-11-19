@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.75.117.152","*.shoppers-cloud.com","","","","","*.shoppers-cloud.com|shoppers-cloud.com","","false"
 "35.75.117.158","skyview0.airos.jp","","","","","skyview0.airos.jp","","false"
 "35.75.117.165","techtionary.jp","","","","","techtionary.jp","","false"

@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.70.85.216","","Intuit, Inc.","US","Mountain View","California","api.ss0011-pyroscope-k8s|api.ss0011-pyroscope-k8s.iks.a.intuit.com|eksapi-ss0011-pyroscope-k8s-5c054805df4c3f71.elb.us-west-2.amazonaws.com","","true"
 "54.70.85.222","profiles-api-test.merchant.jpmorgan.com","JPMorgan Chase & Co.","US","New York","New York","profiles-api-test.merchant.jpmorgan.com","","false"
 "54.70.85.224","ops.true.sh","","","","","ops.true.sh|*.ops.true.sh","","false"

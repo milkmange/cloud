@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.164.98.35","space-c7bfad46-8e6d-43b6-97e5-d48713540051","Heroku","US","San Francisco","California","","","false"
 "54.164.98.33","kube-apiserver","","","","","88f912155099f3fffebfe7229495aaf8.gr7.us-east-1.eks.amazonaws.com|ip-172-16-112-214.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.1.219.153|172.16.112.214","false"
 "54.164.98.34","*.pagelyhosting.com","","","","","*.pagelyhosting.com|pagelyhosting.com","","false"

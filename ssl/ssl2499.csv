@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.27.187.130","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-02.us-west-2.es.amazonaws.com","","false"
 "52.27.187.148","edfora.com","","","","","edfora.com|*.edfora.com","","false"
 "52.27.187.156","qa.dealernavigator.com","Capital One Financial Corporation","US","McLean","Virginia","qa.dealernavigator.com|ane-preprod.capitalone.com|ants-qa-ext.capitalone.com|ants-cdn-qa.clouddqt.capitalone.com|ants-qa-ext.cloud.capitalone.com|an-akamai-it.capitalone.com|an-akamai-static-it.capitalone.com","","false"

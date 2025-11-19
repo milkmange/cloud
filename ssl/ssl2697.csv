@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.93.68.216","*.crm.es","","","","","*.crm.es|crm.es","","false"
 "54.93.69.115","ec2-54-93-69-115.eu-central-1.compute.amazonaws.com","","","","","ec2-54-93-69-115.eu-central-1.compute.amazonaws.com","","false"
 "54.93.69.78","kube-apiserver","","","","","ee3c1ff5a24e00fc0ed2a26b3c04824d.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-35-253.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.1.199|172.16.35.253","false"

@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.17.174.179","*.beyondtrustcloud.com","BeyondTrust Corporation","US","Johns Creek","Georgia","*.beyondtrustcloud.com|beyondtrustcloud.com","","false"
 "3.17.174.214","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "3.17.174.220","example.com","","","","","example.com|www.example.com","127.0.0.1","true"

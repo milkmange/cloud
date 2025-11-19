@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.248.80.210","securiti.xyz","","","","","securiti.xyz|*.securiti.xyz","","false"
 "3.248.80.202","alb-v2.jobs.amazon.co.za","","","","","alb-v2.jobs.amazon.co.za","","false"
 "3.248.80.188","tracker.proto.ropto.co.uk","","","","","tracker.proto.ropto.co.uk|www.tracker.proto.ropto.co.uk","","false"
