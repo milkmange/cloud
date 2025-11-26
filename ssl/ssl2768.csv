@@ -23,6 +23,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.201.147.95","kube-apiserver","","","","","2586fd6fb6fcc6081f526bf7c0c53f95.yl4.us-west-2.eks.amazonaws.com|ip-172-16-57-150.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.15.149.28|172.16.57.150","false"
 "54.201.147.104","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "54.201.147.112","TRAEFIK DEFAULT CERT","","","","","dc69d1cc54d6016ff6b74ecd92e54a81.51cd51b52c28245ddb67ccc07e4cc6e5.traefik.default","","true"

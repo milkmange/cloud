@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.171.136.46","gorilla.app.br","","","","","gorilla.app.br|imparpec.gorilla.app.br|essencis.gorilla.app.br|cba.gorilla.app.br|veo.gorilla.app.br|safe.gorilla.app.br|viaduto.gorilla.app.br|greentech.gorilla.app.br","","false"
 "35.171.136.47","dev.lanesurf.com","","","","","dev.lanesurf.com","","false"
 "35.171.136.56","api.tryoverpass.com","","","","","api.tryoverpass.com|*.tryoverpass.com","","false"

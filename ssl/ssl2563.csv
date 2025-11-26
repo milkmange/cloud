@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.19.114.164","api.preprod.paces.ai","","","","","api.preprod.paces.ai|www.preprod.app.paces.ai|preprod.app.paces.ai","","false"
 "3.19.114.167","*.dr10sb5qb9gnc.us-east-2.cs.amazonlightsail.com","","","","","*.dr10sb5qb9gnc.us-east-2.cs.amazonlightsail.com","","false"
 "3.19.114.165","*.app.bearbitz.com","","","","","*.app.bearbitz.com|*.api.bearbitz.com","","false"

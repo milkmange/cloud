@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.9.235.66","*.execute-api.eu-west-2.amazonaws.com","","","","","*.execute-api.eu-west-2.amazonaws.com","","false"
 "3.9.235.65","omarica.com","","","","","omarica.com|www.omarica.com","","false"
 "3.9.235.67","projecthq.eu","","","","","projecthq.eu|*.projecthq.eu","","false"

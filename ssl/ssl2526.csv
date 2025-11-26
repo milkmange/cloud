@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.74.230.221","*.jog.systems","JOGUCHI ATOM Co.,Ltd.","JP","Chuo-ku,Sapporo-shi","Hokkaido","*.jog.systems|jog.systems","","false"
 "35.74.230.226","*.cachatto-cloud.com","","","","","*.cachatto-cloud.com|cachatto-cloud.com","","false"
 "35.74.230.227","*.binance.com","Binance Holdings Limited","KY","GEORGE TOWN","","*.binance.com|binance.com","","false"

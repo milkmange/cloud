@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.10.101.23","*.patient-perfect.com","","","","","*.patient-perfect.com","","false"
 "3.10.101.9","ambition.pritunl.aircury.net","","","","","ambition.pritunl.aircury.net","","false"
 "3.10.101.25","stage-api.sozie.com","","","","","stage-api.sozie.com","","false"

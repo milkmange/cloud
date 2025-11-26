@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.27.248.137","public.beholder.prod.ip.cldev.sh","","","","","public.beholder.prod.ip.cldev.sh|*.public.beholder.prod.ip.cldev.sh","","false"
 "52.27.248.141","kube-apiserver","","","","","b2601cca3388354803ff441e7ee9ac57.sk1.us-west-2.eks.amazonaws.com|ip-172-16-55-84.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.17.97.58|172.16.55.84","false"
 "52.27.248.165","*.cluster.pegaservice.net","","","","","*.cluster.pegaservice.net","","false"

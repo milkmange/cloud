@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.75.91.112","nemuriconnect.jp","","","","","nemuriconnect.jp|*.nemuriconnect.jp","","false"
 "35.75.91.133","*.neoviewer.jp","","","","","*.neoviewer.jp|neoviewer.jp","","false"
 "35.75.91.137","*.starboss.biz","","","","","*.starboss.biz","","false"

@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.74.19.196","*.ungra.net","","","","","*.ungra.net|ungra.net","","false"
 "35.74.19.201","*.ap-northeast-1.awsapprunner.com","","","","","*.ap-northeast-1.awsapprunner.com","","false"
 "35.74.19.204","sales-funnel.tech","","","","","sales-funnel.tech","","false"

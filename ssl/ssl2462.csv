@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.141.143.71","kube-apiserver","","","","","31a76989dc42187ee97a00d8731f47be.gr7.us-east-2.eks.amazonaws.com|ip-10-0-105-18.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.102.201|10.0.105.18","false"
 "3.141.143.80","*.upsightercontroller.cognitee.net","","","","","*.upsightercontroller.cognitee.net","","false"
 "3.141.143.79","live-nybest-docker.appworkdemo.com","","","","","live-nybest-docker.appworkdemo.com","","false"

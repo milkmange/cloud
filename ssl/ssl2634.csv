@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.171.53.49","*.execute-api.eu-west-1.amazonaws.com","","","","","*.execute-api.eu-west-1.amazonaws.com","","false"
 "54.171.53.50","*.live.cx-apps.io","","","","","*.live.cx-apps.io","","false"
 "54.171.53.51","dev-bizontop.com","","","","","dev-bizontop.com|*.dev-bizontop.com","","false"

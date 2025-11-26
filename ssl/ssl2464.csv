@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.142.75.248","portal.callatlas.io","","","","","app.callatlas.io|portal.callatlas.io","","false"
 "3.142.75.250","bellecares.com","","","","","bellecares.com|marketing.bellecares.com|www.bellecares.com","","false"
 "3.142.75.247","nemsis.web.health.state.mn.us","State of Minnesota","US","","Minnesota","nemsis.web.health.state.mn.us|www.nemsis.web.health.state.mn.us","","false"

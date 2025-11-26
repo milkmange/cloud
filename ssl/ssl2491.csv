@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.174.146.223","*.sync-tracker-production-airbyte.orfium.com","","","","","*.sync-tracker-production-airbyte.orfium.com|*.orfium.com","","false"
 "35.174.146.226","kube-apiserver","","","","","08c77041d3320b1fdd91d12b7bbf0e0a.gr7.us-east-1.eks.amazonaws.com|ip-172-16-127-215.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.34.50.171|172.16.127.215","false"
 "35.174.146.227","*.gabster.com.br","","","","","*.gabster.com.br","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.170.92.4","kube-apiserver","","","","","2a94f6de352ddd7a42ca38c203169164.gr7.us-east-1.eks.amazonaws.com|ip-172-16-123-159.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.78.110.254|172.16.123.159","false"
 "35.170.92.7","sunroomrentals.com","","","","","sunroomrentals.com|*.sunroomrentals.com","","false"
 "35.170.92.8","","","","","","","","true"

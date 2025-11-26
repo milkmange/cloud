@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.27.122.64","","Intuit, Inc.","US","Mountain View","California","api.cws-e2e-usw2-k8s|api.cws-e2e-usw2-k8s.iks.a.intuit.com|eksapi-cws-e2e-usw2-k8s-ace1244d97127c18.elb.us-west-2.amazonaws.com","","true"
 "52.27.122.69","*.us1.ripplingciinternal.com","","","","","*.us1.ripplingciinternal.com","","false"
 "52.27.122.70","*.firewatch.webconnex.io","","","","","*.firewatch.webconnex.io|*.ticketspice.com.firewatch.webconnex.io|*.regfox.com.firewatch.webconnex.io|*.redpodium.com.firewatch.webconnex.io|*.account.firewatch.webconnex.io|*.givingfuel.com.firewatch.webconnex.io","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.169.59.137","*.ducash.com.br","","","","","*.ducash.com.br","","false"
 "35.169.59.138","prod-alb.sigemytrc.com","","","","","prod-alb.sigemytrc.com","","false"
 "35.169.59.144","*.us-east-1.awsapprunner.com","","","","","*.us-east-1.awsapprunner.com","","false"

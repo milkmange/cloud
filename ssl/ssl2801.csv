@@ -24,6 +24,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.29.174.139","tests.moneystories.beyondbanking.digital","","","","","tests.moneystories.beyondbanking.digital|www.tests.moneystories.beyondbanking.digital|*.tests.moneystories.beyondbanking.digital","","false"
 "52.29.174.145","*.study.florio.app","","","","","*.study.florio.app|study.florio.app","","false"
 "52.29.174.148","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
