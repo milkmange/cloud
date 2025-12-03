@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.26.250.157","kube-apiserver","","","","","bb645fb5e57b86a33944ded54e8beb51.gr7.us-west-2.eks.amazonaws.com|ip-172-16-99-10.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.3.21.135|172.16.99.10","false"
 "52.26.250.159","*.berkshireprod.idscloud.io","","","","","*.berkshireprod.idscloud.io|*.idscloud.io","","false"
 "52.26.250.160","*.c2.us-west-2.airflow.amazonaws.com","","","","","*.c2.us-west-2.airflow.amazonaws.com","","false"

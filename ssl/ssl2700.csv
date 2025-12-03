@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.44.62.43","*.delivery.safepath.io","","","","","*.delivery.safepath.io","","false"
 "52.44.62.51","geeksquadcentral.com","","","","","geeksquadcentral.com|*.geeksquadcentral.com|*.gsccdn.com|*.gslink.us|gsccdn.com|gslink.us","","false"
 "52.44.62.60","*.campaign.adobe.com","Adobe Inc.","US","San Jose","California","*.campaign.adobe.com","","false"

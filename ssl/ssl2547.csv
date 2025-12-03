@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.157.228.99","*.activation-studio.com","","","","","*.activation-studio.com","","false"
 "35.157.228.100","eu-central-1.prod.terminal-configuration.kuiper.amazon.dev","","","","","eu-central-1.prod.terminal-configuration.kuiper.amazon.dev","","false"
 "35.157.228.103","cmpdel.theplatform.eu","","","","","cmpdel.theplatform.eu|cmpdel.ade-eks-1.eks.ade.theplatform.com","","false"

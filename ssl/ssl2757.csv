@@ -23,6 +23,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.101.114.17","us-west-1.queue.amazonaws.com","","","","","sqs.us-west-1.amazonaws.com|us-west-1.queue.amazonaws.com|*.sqs.us-west-1.vpce.amazonaws.com|sqs.us-west-1.api.aws","","false"
 "3.101.114.16","sqs-fips.us-west-1.amazonaws.com","","","","","sqs-fips.us-west-1.amazonaws.com|*.sqs-fips.us-west-1.vpce.amazonaws.com|sqs-fips.us-west-1.api.aws","","false"
 "3.101.114.82","timber-po.us-west-1.amazonaws.com","","","","","timber-po.us-west-1.amazonaws.com","","false"

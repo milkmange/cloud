@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.253.182.248","advertising-in.amazon.com","","","","","advertising-in.amazon.com","","false"
 "3.253.182.237","texmex-eu-preprod.amazon.com","","","","","texmex-eu-preprod.amazon.com","","false"
 "3.253.183.15","relay.amazon.it","","","","","relay.amazon.it","","false"

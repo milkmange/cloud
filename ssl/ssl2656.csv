@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.200.26.222","today-art.net","","","","","today-art.net|dev.today-art.net|app.today-art.net|www.today-art.net|manager.today-art.net","","false"
 "43.200.26.228","bane.gameduo.net","","","","","bane.gameduo.net|*.bane.gameduo.net","","false"
 "43.200.27.23","*.thehyoosik.me","","","","","*.thehyoosik.me","","false"

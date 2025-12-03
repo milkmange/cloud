@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.44.247.147","kube-apiserver","","","","","499390b6f5d1a95e42ed16646ec26736.sk1.us-east-1.eks.amazonaws.com|ip-172-16-113-155.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.23.15.158|172.16.113.155","false"
 "52.44.247.149","*.hs-prod-mml.cloud","","","","","*.hs-prod-mml.cloud|*.bfwpub.com|*.hs.saplinglearning.com|*.saplinglearning.com","","false"
 "52.44.247.148","mail.cyberlab.com","","","","","mail.cyberlab.com","","false"

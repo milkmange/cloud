@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.74.85.79","*.gccdxteam1.com","","","","","*.gccdxteam1.com","","false"
 "35.74.85.89","*.digitalartscloud.com","","","","","*.digitalartscloud.com|digitalartscloud.com","","false"
 "35.74.85.101","stockweather.co.jp","","","","","stockweather.co.jp|*.stockweather.co.jp","","false"

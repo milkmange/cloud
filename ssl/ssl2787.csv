@@ -24,6 +24,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.233.194.202","lastpass.com","LASTPASS US LP","US","Boston","Massachusetts","lastpass.com|www.lastpass.com|*.lastpass.com|lastpass.eu|www.lastpass.eu","","false"
 "3.233.194.205","*.immedia-semi.com","Amazon","US","Boston","Massachusetts","","","true"
 "3.233.194.218","api.samvaad.ai","","","","","api.samvaad.ai|www.api.samvaad.ai","","false"

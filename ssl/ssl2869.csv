@@ -25,6 +25,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.12.220.54","getflits.com","","","","","getflits.com|*.getflits.com","","false"
 "3.12.220.61","*.studioease.net","","","","","*.studioease.net","","false"
 "3.12.220.58","wokpy.net","","","","","wokpy.net|*.wokpy.net","","false"

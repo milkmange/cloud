@@ -25,6 +25,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "71.132.32.122","*.gamma.execute-api.cn-north-1.amazonaws.com.cn","","","","","*.gamma.execute-api.cn-north-1.amazonaws.com.cn","","false"
 "71.132.32.241","*.cn-north-1.es.amazonaws.com.cn","","","","","*.cn-north-1.es.amazonaws.com.cn","","false"
 "71.132.32.211","*.swg.prismaaccess.cn","","","","","*.swg.prismaaccess.cn","","false"

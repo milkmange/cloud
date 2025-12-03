@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.68.86.10","*.cachatto-cloud.com","","","","","*.cachatto-cloud.com|cachatto-cloud.com","","false"
 "52.68.86.18","api.qms-chat.com","","","","","api.qms-chat.com","","false"
 "52.68.86.23","kube-apiserver","","","","","85b0b6dcecb814262bec17e3a2ae7ea2.gr7.ap-northeast-1.eks.amazonaws.com|ip-172-16-165-156.ap-northeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.66.41.92|172.16.165.156","false"

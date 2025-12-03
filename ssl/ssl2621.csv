@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.56.242.89","server.appliedsilver.com","Applied Silver Inc.","US","Hayward","California","","","true"
 "13.56.242.91","*.capturedata.com","","","","","*.capturedata.com|capturedata.com","","false"
 "13.56.242.93","*.marcopololearning.com","","","","","*.marcopololearning.com","","false"

@@ -24,6 +24,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.221.198.221","*.aiavaamo.com","","","","","*.aiavaamo.com","","false"
 "54.221.198.240","*.c13.us-east-1.airflow.amazonaws.com","","","","","*.c13.us-east-1.airflow.amazonaws.com","","false"
 "54.221.198.246","*.gizmotrader.com","","","","","*.gizmotrader.com|gizmotrader.com","","false"

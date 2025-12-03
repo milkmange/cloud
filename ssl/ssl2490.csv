@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.174.69.246","*.sec4you.com.br","","","","","*.sec4you.com.br|sec4you.com.br","","false"
 "35.174.69.247","devmindmate.com","","","","","devmindmate.com|www.devmindmate.com|*.devmindmate.com","","false"
 "35.174.69.248","*.prod.samsungpay.com","","","","","*.prod.samsungpay.com|prod.samsungpay.com","","false"

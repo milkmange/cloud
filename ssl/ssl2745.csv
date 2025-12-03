@@ -18,6 +18,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "57.183.66.88","trs.the0123.com","","","","","trs.the0123.com","","false"
 "57.183.66.90","*.united-arrows.co.jp","UNITED ARROWS LTD.","JP","Shibuya ku","Tokyo","*.united-arrows.co.jp","","false"
 "57.183.66.102","api.smart-report-stag.xronotech-dev.com","","","","","api.smart-report-stag.xronotech-dev.com","","false"

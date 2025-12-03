@@ -25,6 +25,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.29.28.142","bootstrap.joomdev.net","","","","","bootstrap.joomdev.net|*.bootstrap.joomdev.net","","false"
 "52.29.28.143","phishmelms.co.uk","","","","","phishmelms.co.uk|www.phishmelms.co.uk","","false"
 "52.29.28.155","clsnergy.com","","","","","clsnergy.com|www.clsnergy.com","","false"

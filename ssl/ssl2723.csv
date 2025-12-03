@@ -16,6 +16,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.20.154.172","fit-local.com","","","","","fit-local.com|www.fit-local.com","","false"
 "3.20.154.178","*.c1.airflow.us-east-2.on.aws","","","","","*.c1.airflow.us-east-2.on.aws","","false"
 "3.20.154.177","main-upbeat-heisenberg-0ijjqzj.cribl.cloud","","","","","main-upbeat-heisenberg-0ijjqzj.cribl.cloud|default.main.upbeat-heisenberg-0ijjqzj.cribl.cloud|in.main-default-upbeat-heisenberg-0ijjqzj.cribl.cloud|*.main.upbeat-heisenberg-0ijjqzj.cribl.cloud","","false"
