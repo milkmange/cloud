@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.65.155.22","clients.amazonworkspaces.com","Amazon.com Inc.","US","Seattle","Washington","clients.amazonworkspaces.com","","false"
 "18.65.155.32","*.lottedfs.com","","","","","*.lottedfs.com|m.tcn.lps.lottedfs.com|*.m.jpn.lottedfs.com|*.vnm.lottedfs.com|*.m.chn.lottedfs.cn|m.jpn.lps.lottedfs.com|*.lottedfs.cn|*.tcn.lottedfs.com|*.chn.lottedfs.com|*.m.chn.lottedfs.com|*.jpn.lottedfs.com|*.m.kor.lottedfs.com|m.chn.lps.lottedfs.cn|m.eng.lps.lottedfs.com|chn.lps.lottedfs.cn|*.eng.lottedfs.com|m.kor.lps.lottedfs.com|*.kor.lottedfs.com|*.lps.lottedfs.com|*.chn.lottedfs.cn|*.m.tcn.lottedfs.com|m.vnm.lps.lottedfs.com|*.m.vnm.lottedfs.com|m.chn.lps.lottedfs.com|*.m.eng.lottedfs.com","","false"
 "18.65.155.73","sonans.no","","","","","sonans.no|*.sonans.no","","false"
