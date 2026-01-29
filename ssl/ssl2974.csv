@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.188.124.27","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-01.us-west-2.es.amazonaws.com","","false"
 "54.188.124.39","kube-apiserver","","","","","1158def1fbbe0b404e76aba20c587dc9.gr7.us-west-2.eks.amazonaws.com|ip-172-16-126-224.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.174.99.215|172.16.126.224","false"
 "54.188.124.36","*.truedata.co","","","","","*.truedata.co|*.td-api.com|*.twinedata.com","","false"
