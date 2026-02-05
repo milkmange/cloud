@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "104.196.196.183","*.us-east1.gcp.confluent.cloud","","","","","*.cert-intl-0k3yene5.us-east1.gcp.confluent.cloud|*.us-east1-b.us-east1.gcp.intranet.confluent.cloud|*.us-east1-c.us-east1.gcp.intranet.confluent.cloud|*.us-east1-d.us-east1.gcp.intranet.confluent.cloud|*.us-east1.gcp.confluent.cloud|*.us-east1.gcp.intranet.confluent.cloud|*.us-east1.gcp.private.confluent.cloud","","false"
 "104.196.197.194","35.237.169.115","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.237.169.115|10.16.209.1|10.126.2.31|35.185.50.206|34.74.33.38","false"
 "104.196.197.221","35.190.189.242","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.190.189.242|34.118.224.1|10.40.194.2|34.74.173.187|104.196.197.221","false"
