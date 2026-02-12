@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.198.109.45","*.ssso.hdems.com","","","","","*.ssso.hdems.com","","false"
 "52.198.109.47","*.riiiver.com","","","","","*.riiiver.com|riiiver.com","","false"
 "52.198.109.51","www.cloversystem.co.jp","","","","","www.cloversystem.co.jp|cloversystem.co.jp","","false"

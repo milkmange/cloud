@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.197.198.69","reguit.com","","","","","reguit.com|*.reguit.com","","false"
 "52.197.198.71","*.ofm-system.info","","","","","*.ofm-system.info","","false"
 "52.197.198.72","*.smart-tv-product.jp","JCOM CO., LTD.","JP","Chiyoda-ku","Tokyo","*.smart-tv-product.jp|smart-tv-product.jp","","false"
