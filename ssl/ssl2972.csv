@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.103.28.238","*.prod.waf-dataplane-ap-southeast-6.com","Amazon.com Inc.","US","Seattle","Washington","*.akl55.prod.waf-dataplane-ap-southeast-6.com|*.akl60.prod.waf-dataplane-ap-southeast-6.com|*.akl70.prod.waf-dataplane-ap-southeast-6.com|*.prod.waf-dataplane-ap-southeast-6.com","","false"
 "3.103.28.240","*.prod.waf-dataplane-ap-southeast-6.com","Amazon.com Inc.","US","Seattle","Washington","*.akl55.prod.waf-dataplane-ap-southeast-6.com|*.akl60.prod.waf-dataplane-ap-southeast-6.com|*.akl70.prod.waf-dataplane-ap-southeast-6.com|*.prod.waf-dataplane-ap-southeast-6.com","","false"
 "3.103.28.248","*.prod.waf-dataplane-ap-southeast-6.com","Amazon.com Inc.","US","Seattle","Washington","*.akl55.prod.waf-dataplane-ap-southeast-6.com|*.akl60.prod.waf-dataplane-ap-southeast-6.com|*.akl70.prod.waf-dataplane-ap-southeast-6.com|*.prod.waf-dataplane-ap-southeast-6.com","","false"

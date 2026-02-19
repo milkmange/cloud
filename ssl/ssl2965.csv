@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.198.190.239","*.ap-northeast-1.cloudsearch.amazonaws.com","","","","","*.ap-northeast-1.cloudsearch.amazonaws.com","","false"
 "52.198.191.1","yui-en.jp","","","","","yui-en.jp|researchers.yui-en.jp|admin.yui-en.jp|www.yui-en.jp|api.yui-en.jp|teachers.yui-en.jp","","false"
 "52.198.191.6","*.ap-northeast-1.es.amazonaws.com","","","","","*.ap-northeast-1.es.amazonaws.com","","false"

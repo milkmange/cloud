@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.188.235.169","filestory.ai","","","","","filestory.ai","","false"
 "54.188.235.185","qiq4n6j762irg.dev.origins.magento.cloud","Magento Cloud","FR","","","","","true"
 "54.188.235.187","lowesstg.paradox.ai","","","","","lowesstg.paradox.ai|*.lowesstg.paradox.ai","","false"
