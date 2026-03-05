@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.190.123.162","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "54.190.123.170","*.cld-l2qpgqfc1yyijv9w.s.userdata.predeploy.anyscale.dev","","","","","*.cld-l2qpgqfc1yyijv9w.s.userdata.predeploy.anyscale.dev","","false"
 "54.190.123.184","*.iqcnmgh1va9ra.us-west-2.cs.amazonlightsail.com","","","","","*.iqcnmgh1va9ra.us-west-2.cs.amazonlightsail.com","","false"
