@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.65.242.234","data-eu.amazon.com","","","","","data-eu.amazon.com|data.amazon.eg|data.amazon.in|data.amazon.ae|data.amazon.co.uk|data.amazon.com.ng|origin-data-eu.amazon.com|data.amazon.pl|data.amazon.ie|data.amazon.nl|data.amazon.de|data.amazon.se|data.amazon.co.za|data.amazon.it|data.amazon.fr|data.amazon.com.tr|data.amazon.com.be|data.amazon.es|data.amazon.sa","","false"
 "18.65.242.245","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"
 "18.65.242.250","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"
