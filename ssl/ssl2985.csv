@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.66.12.65","*.kaltura.com","","","","","*.kaltura.com","","false"
 "18.66.12.142","*.ssi.servicestream.com.au","","","","","*.ssi.servicestream.com.au|ssi.servicestream.com.au","","false"
 "18.66.11.235","*.skyperfectjsat.co.jp","","","","","*.skyperfectjsat.co.jp|skyperfectjsat.co.jp","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.67.186.147","*.kastle.com","Kastle Systems, LLC","US","Falls Church","Virginia","*.kastle.com|kastle.com","","false"
 "18.67.186.102","*.execute-api.us-east-1.amazonaws.com","","","","","*.execute-api.us-east-1.amazonaws.com","","false"
 "18.67.186.157","*.videoamp.com","","","","","*.videoamp.com","","false"
