@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.171.28.37","stage-spectrum.net","","","","","stage-spectrum.net|*.stage-charter.net|*.aws.charter.net|*.stage-spectrum.net","","false"
 "3.171.28.35","media.baselineresearch.com","","","","","media.baselineresearch.com","","false"
 "3.171.28.33","smx-prod.nikecloud.com","","","","","smx-prod.nikecloud.com","","false"

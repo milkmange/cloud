@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.191.235.154","*.gamma.mrmeridian.us-west-2.on.aws","Amazon.com Inc.","US","Seattle","Washington","*.us-west-2.gamma.primedmeridian.aws.a2z.com|*.us-west-2.gamma.recovery-cluster.route-53.aws.dev|*.gamma.mrmeridian.us-west-2.on.aws","","false"
 "54.191.235.159","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-01.us-west-2.es.amazonaws.com","","false"
 "54.191.235.160","*.digital.clicktripz.io","","","","","*.tests.digital.clicktripz.io|*.tests.digital-staging.clicktripz.io|*.digital-staging.clicktripz.io|*.digital.clicktripz.io","","false"
