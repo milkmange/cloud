@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.87.90.104","*.2d60t542o7tde.us-east-1.cs.amazonlightsail.com","","","","","*.2d60t542o7tde.us-east-1.cs.amazonlightsail.com","","false"
 "52.87.90.120","curtain.com","","","","","","","true"
 "52.87.90.126","","","","","","","","true"
